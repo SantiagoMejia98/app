@@ -1,13 +1,13 @@
-// URL base da API
-const baseURL = 'http://localhost:8080';
-
-export default function getDatos(endpoint) {
-    return fetch(`${endpoint}`)
-        .then(response => response.json())
+export default function getdatos(url) {
+    return fetch(url)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
         .catch(error => {
-            console.error('Error al ingresar al endpoint /series/top5:', error);
+            console.error('There has been a problem with your fetch operation:', error);
+            throw error;
         });
 }
-
-
-

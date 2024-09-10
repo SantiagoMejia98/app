@@ -79,36 +79,46 @@ let todasLasSeries = [];
 let resultadosPeliculas = [];
 let resultadosSeries = [];
 
-// Cargar datos desde localStorage o desde el backend si no están en localStorage
 function generaSeries() {
     const datosAlmacenados = localStorage.getItem('titulos');
     
     if (datosAlmacenados) {
-        const datos = JSON.parse(datosAlmacenados);
-        todasLasPeliculas = datos.filter(item => item.Tipo === 'pelicula');
-        todasLasSeries = datos.filter(item => item.Tipo === 'serie');
+        try {
+            const datos = JSON.parse(datosAlmacenados);
+            todasLasPeliculas = datos.filter(item => item.Tipo === 'pelicula');
+            todasLasSeries = datos.filter(item => item.Tipo === 'serie');
 
-        crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
-        crearListaPeliculas(elementos.series, todasLasSeries);
+            crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
+            crearListaPeliculas(elementos.series, todasLasSeries);
+        } catch (error) {
+            tratarConErrores("Error al analizar datos almacenados.");
+            localStorage.removeItem('titulos'); // Eliminar datos corruptos
+            cargarDatosDesdeBackend(); // Intentar cargar desde el backend
+        }
     } else {
-        const url = 'https://raw.githubusercontent.com/SantiagoMejia98/app/main/BackEnd/titulos.json'; // URL del JSON en GitHub
-
-        getdatos(url)
-            .then(data => {
-                // Almacenar datos en localStorage
-                localStorage.setItem('titulos', JSON.stringify(data));
-
-                todasLasPeliculas = data.filter(item => item.Tipo === 'pelicula');
-                todasLasSeries = data.filter(item => item.Tipo === 'serie');
-
-                crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
-                crearListaPeliculas(elementos.series, todasLasSeries);
-            })
-            .catch(error => {
-                tratarConErrores("Ocurrió un error al cargar los datos.");
-            });
+        cargarDatosDesdeBackend(); // Si no hay datos en localStorage, cargar desde el backend
     }
 }
+
+function cargarDatosDesdeBackend() {
+    const url = 'https://raw.githubusercontent.com/SantiagoMejia98/app/main/BackEnd/titulos.json'; // URL del JSON en GitHub
+
+    getdatos(url)
+        .then(data => {
+            // Almacenar datos en localStorage
+            localStorage.setItem('titulos', JSON.stringify(data));
+
+            todasLasPeliculas = data.filter(item => item.Tipo === 'pelicula');
+            todasLasSeries = data.filter(item => item.Tipo === 'serie');
+
+            crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
+            crearListaPeliculas(elementos.series, todasLasSeries);
+        })
+        .catch(error => {
+            tratarConErrores("Ocurrió un error al cargar los datos.");
+        });
+}
+
 
 generaSeries();
 
