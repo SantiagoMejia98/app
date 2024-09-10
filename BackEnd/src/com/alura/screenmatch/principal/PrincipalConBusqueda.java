@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 public class PrincipalConBusqueda {
 
-    private final static String filePath = "app/Backend/titulos.json";
+    private final static String filePath = "app/titulos.json";
     private final static Gson gson = new GsonBuilder()
             .setFieldNamingPolicy(FieldNamingPolicy.UPPER_CAMEL_CASE)
             .setPrettyPrinting().create();
