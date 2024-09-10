@@ -91,7 +91,7 @@ function generaSeries() {
         crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
         crearListaPeliculas(elementos.series, todasLasSeries);
     } else {
-        const url = 'https://github.com/SantiagoMejia98/app/blob/main/BackEnd/titulos.json'; // Nueva URL del JSON combinado
+        const url = 'https://raw.githubusercontent.com/SantiagoMejia98/app/main/BackEnd/titulos.json'; // Nueva URL del JSON combinado
 
         getdatos(url)
             .then(data => {
