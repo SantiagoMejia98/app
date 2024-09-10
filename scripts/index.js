@@ -44,7 +44,7 @@ function crearListaPeliculas(elemento, datos) {
 
         // Agregar event listener a cada card
         li.addEventListener('click', () => {
-            let indice = encontrarIndicePorNombre(aleatorio[0].nombre);
+            let indice = encontrarIndicePorNombre(aleatorio[0].Nombre);
             mostrarTodosLosElementos(todasLasPeliculas, todasLasSeries);
             scrollToCard(indice);
             aleatorio = [];
@@ -91,7 +91,7 @@ function generaSeries() {
         crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
         crearListaPeliculas(elementos.series, todasLasSeries);
     } else {
-        const url = 'https://raw.githubusercontent.com/SantiagoMejia98/app/main/BackEnd/titulos.json'; // Nueva URL del JSON combinado
+        const url = 'https://raw.githubusercontent.com/SantiagoMejia98/app/main/BackEnd/titulos.json'; // URL del JSON en GitHub
 
         getdatos(url)
             .then(data => {
@@ -127,7 +127,7 @@ const cards = document.querySelectorAll('.card');
 let indiceEncontrado = -1;
 
 function encontrarIndicePorNombre(nombre) {
-
+    let indiceEncontrado = -1;
     cards.forEach((card, index) => {
         const tituloElemento = card.querySelector('.titulo strong').innerText;
         if (tituloElemento === nombre) {
@@ -163,8 +163,6 @@ function scrollToCard(indice) {
         console.error('Índice fuera de rango');
     }
 }
-
-
 
 // Función de búsqueda
 function realizarBusqueda() {
@@ -221,4 +219,3 @@ botonInicio.addEventListener('click', () => {
     localStorage.clear();
     generaSeries();
 });
- 
