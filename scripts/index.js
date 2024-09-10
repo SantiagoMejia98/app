@@ -105,17 +105,19 @@ function cargarDatosDesdeBackend() {
 
     getdatos(url)
         .then(data => {
-            // Almacenar datos en localStorage
-            localStorage.setItem('titulos', JSON.stringify(data));
+            if (data && Array.isArray(data)) {
+                localStorage.setItem('titulos', JSON.stringify(data));
+                todasLasPeliculas = data.filter(item => item.Tipo === 'pelicula');
+                todasLasSeries = data.filter(item => item.Tipo === 'serie');
 
-            todasLasPeliculas = data.filter(item => item.Tipo === 'pelicula');
-            todasLasSeries = data.filter(item => item.Tipo === 'serie');
-
-            crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
-            crearListaPeliculas(elementos.series, todasLasSeries);
+                crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
+                crearListaPeliculas(elementos.series, todasLasSeries);
+            } else {
+                tratarConErrores("El archivo JSON no contiene una lista válida.");
+            }
         })
         .catch(error => {
-            tratarConErrores("Ocurrió un error al cargar los datos.");
+            tratarConErrores("Ocurrió un error al cargar los datos desde el backend.");
         });
 }
 

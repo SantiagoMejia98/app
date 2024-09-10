@@ -8,6 +8,6 @@ export default function getdatos(url) {
         })
         .catch(error => {
             console.error('There has been a problem with your fetch operation:', error);
-            throw error;
+            throw error; // Rethrow to handle it in the calling function
         });
 }
