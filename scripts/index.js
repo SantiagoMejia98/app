@@ -44,7 +44,7 @@ function crearListaPeliculas(elemento, datos) {
 
         // Agregar event listener a cada card
         li.addEventListener('click', () => {
-            let indice = encontrarIndicePorNombre(aleatorio[0].Nombre);
+            let indice = encontrarIndicePorNombre(aleatorio[0].nombre);
             mostrarTodosLosElementos(todasLasPeliculas, todasLasSeries);
             scrollToCard(indice);
             aleatorio = [];
@@ -79,48 +79,36 @@ let todasLasSeries = [];
 let resultadosPeliculas = [];
 let resultadosSeries = [];
 
+// Cargar datos desde localStorage o desde el backend si no están en localStorage
 function generaSeries() {
     const datosAlmacenados = localStorage.getItem('titulos');
     
     if (datosAlmacenados) {
-        try {
-            const datos = JSON.parse(datosAlmacenados);
-            todasLasPeliculas = datos.filter(item => item.Tipo === 'pelicula');
-            todasLasSeries = datos.filter(item => item.Tipo === 'serie');
+        const datos = JSON.parse(datosAlmacenados);
+        todasLasPeliculas = datos.filter(item => item.Tipo === 'pelicula');
+        todasLasSeries = datos.filter(item => item.Tipo === 'serie');
 
-            crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
-            crearListaPeliculas(elementos.series, todasLasSeries);
-        } catch (error) {
-            tratarConErrores("Error al analizar datos almacenados.");
-            localStorage.removeItem('titulos'); // Eliminar datos corruptos
-            cargarDatosDesdeBackend(); // Intentar cargar desde el backend
-        }
+        crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
+        crearListaPeliculas(elementos.series, todasLasSeries);
     } else {
-        cargarDatosDesdeBackend(); // Si no hay datos en localStorage, cargar desde el backend
-    }
-}
+        const url = '/backEnd/titulos.json'; // Nueva URL del JSON combinado
 
-function cargarDatosDesdeBackend() {
-    const url = 'https://raw.githubusercontent.com/SantiagoMejia98/app/main/BackEnd/titulos.json'; // URL del JSON en GitHub
-
-    getdatos(url)
-        .then(data => {
-            if (data && Array.isArray(data)) {
+        getdatos(url)
+            .then(data => {
+                // Almacenar datos en localStorage
                 localStorage.setItem('titulos', JSON.stringify(data));
+
                 todasLasPeliculas = data.filter(item => item.Tipo === 'pelicula');
                 todasLasSeries = data.filter(item => item.Tipo === 'serie');
 
                 crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
                 crearListaPeliculas(elementos.series, todasLasSeries);
-            } else {
-                tratarConErrores("El archivo JSON no contiene una lista válida.");
-            }
-        })
-        .catch(error => {
-            tratarConErrores("Ocurrió un error al cargar los datos desde el backend.");
-        });
+            })
+            .catch(error => {
+                tratarConErrores("Ocurrió un error al cargar los datos.");
+            });
+    }
 }
-
 
 generaSeries();
 
@@ -139,7 +127,7 @@ const cards = document.querySelectorAll('.card');
 let indiceEncontrado = -1;
 
 function encontrarIndicePorNombre(nombre) {
-    let indiceEncontrado = -1;
+
     cards.forEach((card, index) => {
         const tituloElemento = card.querySelector('.titulo strong').innerText;
         if (tituloElemento === nombre) {
@@ -175,6 +163,8 @@ function scrollToCard(indice) {
         console.error('Índice fuera de rango');
     }
 }
+
+
 
 // Función de búsqueda
 function realizarBusqueda() {
@@ -231,3 +221,4 @@ botonInicio.addEventListener('click', () => {
     localStorage.clear();
     generaSeries();
 });
+ 
