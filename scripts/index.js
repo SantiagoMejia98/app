@@ -77,36 +77,22 @@ let todasLasSeries = [];
 let resultadosPeliculas = [];
 let resultadosSeries = [];
 
-// Cargar datos desde localStorage o desde el backend si no están en localStorage
+// Cargar datos desde el archivo JSON en la carpeta public
 function generaSeries() {
-    const datosAlmacenados = localStorage.getItem('titulos');
-    
-    if (datosAlmacenados) {
-        const datos = JSON.parse(datosAlmacenados);
-        todasLasPeliculas = datos.filter(item => item.Tipo === 'pelicula');
-        todasLasSeries = datos.filter(item => item.Tipo === 'serie');
+    const url = '/titulos.json'; // Ruta del JSON en la carpeta public
 
-        crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
-        crearListaPeliculas(elementos.series, todasLasSeries);
-    } else {
-        const url = '/titulos.json'; // Nueva URL del JSON combinado
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            todasLasPeliculas = data.filter(item => item.Tipo === 'pelicula');
+            todasLasSeries = data.filter(item => item.Tipo === 'serie');
 
-        fetch(url)
-            .then(response => response.json())
-            .then(data => {
-                // Almacenar datos en localStorage
-                localStorage.setItem('titulos', JSON.stringify(data));
-
-                todasLasPeliculas = data.filter(item => item.Tipo === 'pelicula');
-                todasLasSeries = data.filter(item => item.Tipo === 'serie');
-
-                crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
-                crearListaPeliculas(elementos.series, todasLasSeries);
-            })
-            .catch(error => {
-                tratarConErrores("Ocurrió un error al cargar los datos.");
-            });
-    }
+            crearListaPeliculas(elementos.peliculas, todasLasPeliculas);
+            crearListaPeliculas(elementos.series, todasLasSeries);
+        })
+        .catch(error => {
+            tratarConErrores("Ocurrió un error al cargar los datos.");
+        });
 }
 
 generaSeries();
@@ -216,6 +202,5 @@ function mostrarTodosLosElementos(peliculas, series) {
 // Añadir event listener al botón de inicio para mostrar todas las películas y series
 botonInicio.addEventListener('click', () => {
     mostrarTodosLosElementos(todasLasPeliculas, todasLasSeries);
-    localStorage.clear();
-    generaSeries();
+    generaSeries(); // Recargar datos desde el JSON
 });
