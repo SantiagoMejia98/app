@@ -121,36 +121,4 @@ main {
 
 
 
-/* Estilos para tablets */
-@media (max-width: 768px) {
-    .header {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .dropdown-menu {
-        width: 100%;
-        padding: 12px;
-        font-size: 18px;
-    }
-
-    .lista {
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Ajusta las columnas para tablets */
-        gap: 1em;
-    }
-
-    .pelicula-container {
-        width: 100%;
-        box-sizing: border-box;
-    }
-
-    .pelicula-container img {
-        width: 100%;
-        height: auto;
-    }
-
-    h2 {
-        font-size: 1.75em;
-    }
-}
 
