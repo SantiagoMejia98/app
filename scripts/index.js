@@ -108,99 +108,34 @@ function mostrarSoloElemento(elementoAMostrar) {
     });
 }
 
-const cards = document.querySelectorAll('.card');
-let indiceEncontrado = -1;
-
-function encontrarIndicePorNombre(nombre) {
-
-    cards.forEach((card, index) => {
-        const tituloElemento = card.querySelector('.titulo strong').innerText;
-        if (tituloElemento === nombre) {
-            indiceEncontrado = index;
-        }
-    });
-
-    return indiceEncontrado;
-}
-
 let aleatorio = [];
 
-// Añade event listeners a los botones
-document.querySelector('.peliculas').addEventListener('click', () => mostrarSoloElemento(elementos.peliculas));
-document.querySelector('.series').addEventListener('click', () => mostrarSoloElemento(elementos.series));
-document.querySelector('.pelicula').addEventListener('click', () => {
-    aleatorio = seleccionarElementosAleatorios(todasLasPeliculas, 1);
-    crearListaPeliculas(elementos.pelicula, aleatorio);
-    mostrarSoloElemento(elementos.pelicula);
-    let indice = encontrarIndicePorNombre(aleatorio[0].Nombre);
-});
-document.querySelector('.serie').addEventListener('click', () => {
-    aleatorio = seleccionarElementosAleatorios(todasLasSeries, 1);
-    crearListaPeliculas(elementos.serie, aleatorio);
-    mostrarSoloElemento(elementos.serie);
-    let indice = encontrarIndicePorNombre(aleatorio[0].Nombre);
-});
+// Mapea el dropdown menu
+const dropdownMenu = document.getElementById('dropdown-menu');
 
-function scrollToCard(indice) {
-    const listaDeCards = document.querySelectorAll('.card');
-    if (indice >= 0 && indice < listaDeCards.length) {
-        listaDeCards[indice].scrollIntoView({ behavior: 'smooth', block: 'center' });
-    } else {
-        console.error('Índice fuera de rango');
+// Función para mostrar la sección seleccionada
+function manejarSeleccion(event) {
+    const valorSeleccionado = event.target.value;
+    
+    switch (valorSeleccionado) {
+        case 'peliculas':
+            mostrarSoloElemento(elementos.peliculas);
+            break;
+        case 'series':
+            mostrarSoloElemento(elementos.series);
+            break;
+        case 'pelicula':
+            aleatorio = seleccionarElementosAleatorios(todasLasPeliculas, 1);
+            crearListaPeliculas(elementos.pelicula, aleatorio);
+            mostrarSoloElemento(elementos.pelicula);
+            break;
+        case 'serie':
+            aleatorio = seleccionarElementosAleatorios(todasLasSeries, 1);
+            crearListaPeliculas(elementos.serie, aleatorio);
+            mostrarSoloElemento(elementos.serie);
+            break;
     }
 }
 
-// Función de búsqueda
-function realizarBusqueda() {
-    const textoBusqueda = busquedaInput.value.toLowerCase();
-    resultadosPeliculas = todasLasPeliculas.filter(pelicula => pelicula.Nombre.toLowerCase().includes(textoBusqueda));
-    resultadosSeries = todasLasSeries.filter(serie => serie.Nombre.toLowerCase().includes(textoBusqueda));
-}
-
-// Añadir event listener al campo de entrada para detectar la tecla Enter
-busquedaInput.addEventListener('keypress', (event) => {
-    if (event.key === 'Enter') {
-        realizarBusqueda(); 
-        mostrarTodosLosElementos(resultadosPeliculas, resultadosSeries);
-        cardsBusqueda();
-    }
-});
-
-function cardsBusqueda() {
-    const listaDeCards = document.querySelectorAll('.card');
-
-    listaDeCards.forEach((card, index) => {
-        card.addEventListener('click', () => {
-            let nombre = card.querySelector('.titulo strong').innerText
-            let indice = encontrarIndicePorNombre(nombre);
-            mostrarTodosLosElementos(todasLasPeliculas, todasLasSeries);
-            scrollToCard(indice);
-        });        
-    });
-}
-
-function mostrarTodosLosElementos(peliculas, series) {
-    busquedaInput.value = ''; // Limpiar el campo de búsqueda
-    crearListaPeliculas(elementos.peliculas, peliculas);
-    crearListaPeliculas(elementos.series, series);
-
-    elementos.peliculas.classList.add('hidden');
-    elementos.series.classList.add('hidden');
-
-    // Mostrar solo la sección de películas o series si hay resultados
-    if (peliculas.length > 0) {
-        elementos.peliculas.classList.remove('hidden'); // Mostrar la sección de películas
-    }
-    if (series.length > 0) {
-        elementos.series.classList.remove('hidden'); // Mostrar la sección de series
-    }
-
-    elementos.pelicula.classList.add('hidden');
-    elementos.serie.classList.add('hidden');
-}
-
-// Añadir event listener al botón de inicio para mostrar todas las películas y series
-botonInicio.addEventListener('click', () => {
-    mostrarTodosLosElementos(todasLasPeliculas, todasLasSeries);
-    generaSeries(); // Recargar datos desde el JSON
-});
+// Añadir event listener al dropdown menu
+dropdownMenu.addEventListener('change', manejarSeleccion);
