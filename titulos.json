@@ -1827,33 +1827,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Blade",
-    "Lanzamiento": "1998",
-    "Duracion": "120 min",
-    "Director": "Stephen Norrington",
-    "Actores": "Wesley Snipes, Stephen Dorff, Kris Kristofferson",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTU1ZTI0YjUtZGRlMS00MDU1LWFmZmItZWRiYTg5NTExMmRjXkEyXkFqcGdeQXVyMTUzMDg3MTQw._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Blade II",
-    "Lanzamiento": "2002",
-    "Duracion": "117 min",
-    "Director": "Guillermo del Toro",
-    "Actores": "Wesley Snipes, Kris Kristofferson, Ron Perlman",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWVjZTIzNDYtNTBlNC00NTJjLTkzOTEtOTE0MjlhYzI2YTcyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Blade: Trinity",
-    "Lanzamiento": "2004",
-    "Duracion": "113 min",
-    "Director": "David S. Goyer",
-    "Actores": "Wesley Snipes, Kris Kristofferson, Parker Posey",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0Nzg2MzI3MF5BMl5BanBnXkFtZTYwMjExODQ3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "V for Vendetta",
     "Lanzamiento": "2005",
     "Duracion": "132 min",
