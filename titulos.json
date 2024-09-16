@@ -801,33 +801,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "The Tomorrow War",
-    "Lanzamiento": "2021",
-    "Duracion": "138 min",
-    "Director": "Chris McKay",
-    "Actores": "Chris Pratt, Yvonne Strahovski, J.K. Simmons",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTI2YTI0MWEtNGQ4OS00ODIzLWE1MWEtZGJiN2E3ZmM1OWI1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Winnie-the-Pooh: Blood and Honey",
-    "Lanzamiento": "2023",
-    "Duracion": "84 min",
-    "Director": "Rhys Frake-Waterfield",
-    "Actores": "Nikolai Leon, Maria Taylor, Natasha Rose Mills",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNGMwNjBlM2MtYzFlNi00ZDgwLTkwN2QtMjgzOWVjMWQ4NzAzXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Winnie-the-Pooh: Blood and Honey 2",
-    "Lanzamiento": "2024",
-    "Duracion": "93 min",
-    "Director": "Rhys Frake-Waterfield",
-    "Actores": "Scott Chambers, Tallulah Evans, Ryan Oliva",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOTU5MTYyYTAtNDg5Yi00NTc3LWFhMmQtY2VmNzQyZTRiNjJhXkEyXkFqcGdeQXVyMjYwMDA0ODc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "All Hallows\u0027 Eve",
     "Lanzamiento": "2013",
     "Duracion": "83 min",
@@ -963,111 +936,12 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Bring It On",
-    "Lanzamiento": "2000",
-    "Duracion": "98 min",
-    "Director": "Peyton Reed",
-    "Actores": "Kirsten Dunst, Eliza Dushku, Jesse Bradford",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFlOWY1YTMtOGRkZC00ODRmLTlkNTQtZDBhNGU1Y2E0NmE1XkEyXkFqcGdeQXVyNDUzNzgxODE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Samaritan",
-    "Lanzamiento": "2022",
-    "Duracion": "102 min",
-    "Director": "Julius Avery",
-    "Actores": "Sylvester Stallone, Javon \u0027Wanna\u0027 Walton, Pilou Asbæk",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2M2MjMxNjUtZWU2MS00NTIwLWE0ZDEtOTY3NzY5NGZmY2RmXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "The Courier",
     "Lanzamiento": "2020",
     "Duracion": "112 min",
     "Director": "Dominic Cooke",
     "Actores": "Benedict Cumberbatch, Merab Ninidze, Rachel Brosnahan",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYjg4YTJlNzMtY2U0OC00N2FjLWI0ZTgtNGM1NDRhMWNhZmRkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Rocky",
-    "Lanzamiento": "1976",
-    "Duracion": "120 min",
-    "Director": "John G. Avildsen",
-    "Actores": "Sylvester Stallone, Talia Shire, Burt Young",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Rocky II",
-    "Lanzamiento": "1979",
-    "Duracion": "119 min",
-    "Director": "Sylvester Stallone",
-    "Actores": "Sylvester Stallone, Talia Shire, Burt Young",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk2Y2FiYWEtNGViNy00ZDNkLThhZGItMDI5YjQ5NGYxYWJmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Rocky III",
-    "Lanzamiento": "1982",
-    "Duracion": "99 min",
-    "Director": "Sylvester Stallone",
-    "Actores": "Sylvester Stallone, Talia Shire, Burt Young",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDJiMzQ4YTAtZjUzZC00NTI4LWI3N2YtYWU4MTdiNzkwNWVmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Rocky IV",
-    "Lanzamiento": "1985",
-    "Duracion": "91 min",
-    "Director": "Sylvester Stallone",
-    "Actores": "Sylvester Stallone, Talia Shire, Burt Young",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ0NmIyNzMtYTA4My00ZjY3LTkzNjctYzJiZGZmMzYxOTA1XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Rocky V",
-    "Lanzamiento": "1990",
-    "Duracion": "104 min",
-    "Director": "John G. Avildsen",
-    "Actores": "Sylvester Stallone, Talia Shire, Burt Young",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2Mzc4MTYxM15BMl5BanBnXkFtZTcwODY5NTk1NA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Rocky Balboa",
-    "Lanzamiento": "2006",
-    "Duracion": "102 min",
-    "Director": "Sylvester Stallone",
-    "Actores": "Sylvester Stallone, Antonio Tarver, Milo Ventimiglia",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2OTUzNDE3NV5BMl5BanBnXkFtZTcwODczMzkzMQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Creed",
-    "Lanzamiento": "2015",
-    "Duracion": "133 min",
-    "Director": "Ryan Coogler",
-    "Actores": "Michael B. Jordan, Sylvester Stallone, Tessa Thompson",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmZkYjQzY2QtNjdkNC00YjkzLTk5NjUtY2MyNDNiYTBhN2M2XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Creed II",
-    "Lanzamiento": "2018",
-    "Duracion": "130 min",
-    "Director": "Steven Caple Jr.",
-    "Actores": "Michael B. Jordan, Sylvester Stallone, Tessa Thompson",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYmEyNWZhM2YtZDAyNi00ZjYzLWI2ZWMtOWM4ZmI1MDE0OWNmXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Creed III",
-    "Lanzamiento": "2023",
-    "Duracion": "116 min",
-    "Director": "Michael B. Jordan",
-    "Actores": "Michael B. Jordan, Tessa Thompson, Jonathan Majors",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzIxOTk1NDQtMzJlOC00ODZlLWE1YTAtNTA5ODZlZmZmMDBhXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -1179,15 +1053,6 @@
     "Tipo": "serie"
   },
   {
-    "Nombre": "Young Sheldon",
-    "Lanzamiento": "2017–2024",
-    "Duracion": "7 temporadas",
-    "Director": "Chuck Lorre, Steven Molaro",
-    "Actores": "Iain Armitage, Zoe Perry, Lance Barber",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTlmYjk0ZTItODNhMC00YmIyLWExZWEtYjk0YWQzMGNhOTZmXkEyXkFqcGdeQXVyMTY0Njc2MTUx._V1_SX300.jpg",
-    "Tipo": "serie"
-  },
-  {
     "Nombre": "Tom Clancy\u0027s Jack Ryan",
     "Lanzamiento": "2018–2023",
     "Duracion": "4 temporadas",
@@ -1248,15 +1113,6 @@
     "Director": "Paul King",
     "Actores": "Timothée Chalamet, Gustave Die, Murray McArthur",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNDM4NTk0NjktZDJhMi00MmFmLTliMzEtN2RkZDY2OTNiMDgzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Madame Web",
-    "Lanzamiento": "2024",
-    "Duracion": "116 min",
-    "Director": "S.J. Clarkson",
-    "Actores": "Dakota Johnson, Sydney Sweeney, Isabela Merced",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYWJkY2Q4NmYtOGRlMi00YTg5LWE2ZmQtY2NkYzk3YTRmNWZlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -1377,69 +1233,6 @@
     "Tipo": "serie"
   },
   {
-    "Nombre": "The Matrix",
-    "Lanzamiento": "1999",
-    "Duracion": "136 min",
-    "Director": "Lana Wachowski, Lilly Wachowski",
-    "Actores": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Matrix Reloaded",
-    "Lanzamiento": "2003",
-    "Duracion": "138 min",
-    "Director": "Lana Wachowski, Lilly Wachowski",
-    "Actores": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODE0MzZhZTgtYzkwYi00YmI5LThlZWYtOWRmNWE5ODk0NzMxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Matrix Revolutions",
-    "Lanzamiento": "2003",
-    "Duracion": "129 min",
-    "Director": "Lana Wachowski, Lilly Wachowski",
-    "Actores": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzNlZTZjMDctZjYwNi00NzljLWIwN2QtZWZmYmJiYzQ0MTk2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Matrix Resurrections",
-    "Lanzamiento": "2021",
-    "Duracion": "148 min",
-    "Director": "Lana Wachowski",
-    "Actores": "Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Dennis the Menace",
-    "Lanzamiento": "1993",
-    "Duracion": "94 min",
-    "Director": "Nick Castle",
-    "Actores": "Walter Matthau, Mason Gamble, Joan Plowright",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWY1NGQ3YjktMmU0MS00Y2YyLThlOGEtNTNjNDJkNjVjZTM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Richie Rich",
-    "Lanzamiento": "1994",
-    "Duracion": "95 min",
-    "Director": "Donald Petrie",
-    "Actores": "Macaulay Culkin, Edward Herrmann, John Larroquette",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDMxYTk4ZTgtOTY1Ny00YzFlLWJiZGMtODc4MjQzZDAyMWJkXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Jumanji",
-    "Lanzamiento": "1995",
-    "Duracion": "104 min",
-    "Director": "Joe Johnston",
-    "Actores": "Robin Williams, Kirsten Dunst, Bonnie Hunt",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTk2ZmUwYmEtNTcwZS00YmMyLWFkYjMtNTRmZDA3YWExMjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "Batman Begins",
     "Lanzamiento": "2005",
     "Duracion": "140 min",
@@ -1530,15 +1323,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Brahms: The Boy II",
-    "Lanzamiento": "2020",
-    "Duracion": "86 min",
-    "Director": "William Brent Bell",
-    "Actores": "Katie Holmes, Christopher Convery, Owain Yeoman",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjFmY2IwZmEtNTE4Mi00YzNmLTgzZTgtZjg1NzBhMGZjNGYzXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "The Shining",
     "Lanzamiento": "1980",
     "Duracion": "146 min",
@@ -1563,15 +1347,6 @@
     "Director": "Michael Chaves",
     "Actores": "Patrick Wilson, Vera Farmiga, Ruairi O\u0027Connor",
     "Poster": "https://m.media-amazon.com/images/M/MV5BOWRkOTYzZTQtMzQwNi00NDYwLTk4NjUtN2FjYTI4Y2UzM2RjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Bye Bye Man",
-    "Lanzamiento": "2017",
-    "Duracion": "96 min",
-    "Director": "Stacy Title",
-    "Actores": "Douglas Smith, Lucien Laviscount, Cressida Bonas",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxOTE5NzQwNF5BMl5BanBnXkFtZTgwOTMzMTc1ODE@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -1800,48 +1575,12 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Oblivion",
-    "Lanzamiento": "2013",
-    "Duracion": "124 min",
-    "Director": "Joseph Kosinski",
-    "Actores": "Tom Cruise, Morgan Freeman, Andrea Riseborough",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Edge of Tomorrow",
-    "Lanzamiento": "2014",
-    "Duracion": "113 min",
-    "Director": "Doug Liman",
-    "Actores": "Tom Cruise, Emily Blunt, Bill Paxton",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hancock",
-    "Lanzamiento": "2008",
-    "Duracion": "92 min",
-    "Director": "Peter Berg",
-    "Actores": "Will Smith, Charlize Theron, Jason Bateman",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "V for Vendetta",
     "Lanzamiento": "2005",
     "Duracion": "132 min",
     "Director": "James McTeigue",
     "Actores": "Hugo Weaving, Natalie Portman, Rupert Graves",
     "Poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Constantine",
-    "Lanzamiento": "2005",
-    "Duracion": "121 min",
-    "Director": "Francis Lawrence",
-    "Actores": "Keanu Reeves, Rachel Weisz, Djimon Hounsou",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODZiMzAxNTctZjdiZC00OGY5LTg2NDAtNWJhNmQwZTcyMWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -1861,15 +1600,6 @@
     "Actores": "James Murray, Brian Quinn, Sal Vulcano",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZjhlYTllNzgtOTQ5Ni00MTI1LWJmZjktOTc2NTZkYWVlYjllXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
     "Tipo": "serie"
-  },
-  {
-    "Nombre": "Evil Dead Rise",
-    "Lanzamiento": "2023",
-    "Duracion": "96 min",
-    "Director": "Lee Cronin",
-    "Actores": "Mirabai Pease, Richard Crouchley, Anna-Maree Thomas",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMmZiN2VmMjktZDE5OC00ZWRmLWFlMmEtYWViMTY4NjM3ZmNkXkEyXkFqcGdeQXVyMTI2MTc2ODM3._V1_SX300.jpg",
-    "Tipo": "pelicula"
   },
   {
     "Nombre": "Orphan",
@@ -1935,30 +1665,12 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Poseidon",
-    "Lanzamiento": "2006",
-    "Duracion": "98 min",
-    "Director": "Wolfgang Petersen",
-    "Actores": "Richard Dreyfuss, Kurt Russell, Emmy Rossum",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwOTMwODM2Nl5BMl5BanBnXkFtZTYwMDY5NjU3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "Moonfall",
     "Lanzamiento": "2022",
     "Duracion": "130 min",
     "Director": "Roland Emmerich",
     "Actores": "Halle Berry, Patrick Wilson, John Bradley",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZjk0OWZiN2ItNmQ2YS00NTJmLTg0MjItNzM4NzBkMWM1ZTRlXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Ghost Ship",
-    "Lanzamiento": "2002",
-    "Duracion": "91 min",
-    "Director": "Steve Beck",
-    "Actores": "Julianna Margulies, Gabriel Byrne, Ron Eldard",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTA4NDIwMF5BMl5BanBnXkFtZTYwNTc4NDE3._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -2016,48 +1728,12 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Daddy Day Care",
-    "Lanzamiento": "2003",
-    "Duracion": "92 min",
-    "Director": "Steve Carr",
-    "Actores": "Eddie Murphy, Jeff Garlin, Anjelica Huston",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTZiYjEzY2UtMzA2OC00NjM1LWFlMjItMzg4MTAwOTU2YzYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Equalizer",
-    "Lanzamiento": "2014",
-    "Duracion": "132 min",
-    "Director": "Antoine Fuqua",
-    "Actores": "Denzel Washington, Marton Csokas, Chloë Grace Moretz",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Equalizer 2",
-    "Lanzamiento": "2018",
-    "Duracion": "121 min",
-    "Director": "Antoine Fuqua",
-    "Actores": "Denzel Washington, Pedro Pascal, Ashton Sanders",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "The Equalizer 3",
     "Lanzamiento": "2023",
     "Duracion": "109 min",
     "Director": "Antoine Fuqua",
     "Actores": "Denzel Washington, Dakota Fanning, Eugenio Mastrandrea",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYjZjYTllOWItYjUxMC00NTA0LWI1ZjItNjE5YjVhZjRmYmYwXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Change-Up",
-    "Lanzamiento": "2011",
-    "Duracion": "112 min",
-    "Director": "David Dobkin",
-    "Actores": "Jason Bateman, Ryan Reynolds, Olivia Wilde",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3NTM4NDg3OF5BMl5BanBnXkFtZTcwNDk3MzEwNQ@@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -2148,51 +1824,6 @@
     "Director": "Tom Ford",
     "Actores": "Amy Adams, Jake Gyllenhaal, Michael Shannon",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Mad Max",
-    "Lanzamiento": "1979",
-    "Duracion": "88 min",
-    "Director": "George Miller",
-    "Actores": "Mel Gibson, Joanne Samuel, Hugh Keays-Byrne",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Mad Max 2",
-    "Lanzamiento": "1982",
-    "Duracion": "95 min",
-    "Director": "George Miller",
-    "Actores": "Mel Gibson, Michael Preston, Bruce Spence",
-    "Poster": "https://m.media-amazon.com/images/I/61uwDx4Hq+L._SL1050_.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Mad Max Beyond Thunderdome",
-    "Lanzamiento": "1985",
-    "Duracion": "107 min",
-    "Director": "George Miller, George Ogilvie",
-    "Actores": "Mel Gibson, Tina Turner, Bruce Spence",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMmI4YWEyNTItZTFiMS00YzY4LWE2ZjYtNGRlNmZhNjRmOWVkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Mad Max: Fury Road",
-    "Lanzamiento": "2015",
-    "Duracion": "120 min",
-    "Director": "George Miller",
-    "Actores": "Tom Hardy, Charlize Theron, Nicholas Hoult",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Furiosa: A Mad Max Saga",
-    "Lanzamiento": "2024",
-    "Duracion": "148 min",
-    "Director": "George Miller",
-    "Actores": "Anya Taylor-Joy, Chris Hemsworth, Tom Burke",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmYzMWVjNmQtNjJjNy00M2Y4LTkzZjQtZWQ5NmYzMjRjMDIzXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -2355,42 +1986,6 @@
     "Director": "Martin McDonagh",
     "Actores": "Colin Farrell, Brendan Gleeson, Kerry Condon",
     "Poster": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Kingsman: The Secret Service",
-    "Lanzamiento": "2014",
-    "Duracion": "129 min",
-    "Director": "Matthew Vaughn",
-    "Actores": "Colin Firth, Taron Egerton, Samuel L. Jackson",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Kingsman: The Golden Circle",
-    "Lanzamiento": "2017",
-    "Duracion": "141 min",
-    "Director": "Matthew Vaughn",
-    "Actores": "Taron Egerton, Colin Firth, Mark Strong",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The King\u0027s Man",
-    "Lanzamiento": "2021",
-    "Duracion": "131 min",
-    "Director": "Matthew Vaughn",
-    "Actores": "Ralph Fiennes, Gemma Arterton, Rhys Ifans",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDEzZDY2ZDktNTlmOS00NThjLThkNTEtMjE5MzI5NWEwZmRjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Argylle",
-    "Lanzamiento": "2024",
-    "Duracion": "139 min",
-    "Director": "Matthew Vaughn",
-    "Actores": "Henry Cavill, Bryce Dallas Howard, Sam Rockwell",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDM3YTg4MGUtZmUxNi00YmEyLTllNTctNjYyNjZlZGViNmFhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -2925,15 +2520,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "I Am Mother",
-    "Lanzamiento": "2019",
-    "Duracion": "113 min",
-    "Director": "Grant Sputore",
-    "Actores": "Luke Hawker, Rose Byrne, Maddie Lenton",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxMTczNTA4Nl5BMl5BanBnXkFtZTgwNDAyMzgwODM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "The Killer",
     "Lanzamiento": "2023",
     "Duracion": "118 min",
@@ -3069,15 +2655,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Code 8",
-    "Lanzamiento": "2019",
-    "Duracion": "98 min",
-    "Director": "Jeff Chan",
-    "Actores": "Kari Matchett, Robbie Amell, Penny Eizenga",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ2NWMyZDgtNWQ5My00ZmQwLWE0MTQtN2ZiNjY2ODc0Y2YxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "Maniac",
     "Lanzamiento": "2018",
     "Duracion": "1 temporada",
@@ -3085,15 +2662,6 @@
     "Actores": "Emma Stone, Jonah Hill, Sonoya Mizuno",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMDMwOTgyNzYtNWI2Zi00MDcwLWEyNmUtMGQ5YzA3ZTljMTA2XkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_SX300.jpg",
     "Tipo": "serie"
-  },
-  {
-    "Nombre": "The Old Guard",
-    "Lanzamiento": "2020",
-    "Duracion": "125 min",
-    "Director": "Gina Prince-Bythewood",
-    "Actores": "Charlize Theron, KiKi Layne, Matthias Schoenaerts",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDJiZDliZDAtMjc5Yy00MzVhLThkY2MtNDYwNTQ2ZTM5MDcxXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
   },
   {
     "Nombre": "Challenger: The Final Flight",
@@ -3240,15 +2808,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Project Power",
-    "Lanzamiento": "2020",
-    "Duracion": "113 min",
-    "Director": "Henry Joost, Ariel Schulman",
-    "Actores": "Jamie Foxx, Joseph Gordon-Levitt, Dominique Fishback",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzBhOWU4ODAtZDYzYi00NDU1LWIzZWUtNDZmMDgxODljZTVmXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "Conversations with a Killer: The John Wayne Gacy Tapes",
     "Lanzamiento": "2022",
     "Duracion": "N/A temporadas",
@@ -3330,15 +2889,6 @@
     "Tipo": "serie"
   },
   {
-    "Nombre": "Kaleidoscope",
-    "Lanzamiento": "2023",
-    "Duracion": "1 temporada",
-    "Director": "Eric Garcia",
-    "Actores": "Giancarlo Esposito, Rufus Sewell, Paz Vega",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGYzMTg2MzktOTc3Yi00ZThlLTkxN2MtY2YxNGE1MWNiYmMxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
-    "Tipo": "serie"
-  },
-  {
     "Nombre": "The Wandering Earth",
     "Lanzamiento": "2019",
     "Duracion": "125 min",
@@ -3363,15 +2913,6 @@
     "Director": "John Andreas Andersen",
     "Actores": "Kristine Kujath Thorp, Henrik Bjelland, Rolf Kristian Larsen",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMDI0ZGMxNzctNDdhOS00MjUyLTk0MzUtMjkyYjAwNGM5Y2Q5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Eli",
-    "Lanzamiento": "2019",
-    "Duracion": "98 min",
-    "Director": "Ciarán Foy",
-    "Actores": "Charlie Shotwell, Kelly Reilly, Max Martini",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYWQwYjNiM2ItMTcyZS00ZTNmLTgwNzQtMTgwNzU5ODgxMTc3XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -3400,24 +2941,6 @@
     "Actores": "Daniel Wilson, Peter Sasaki, Diana Wilson",
     "Poster": "https://m.media-amazon.com/images/M/MV5BY2VlOGQzOWMtMTEyOS00MGExLTlmMmItNjBkMDcwYzM0YTBjXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_SX300.jpg",
     "Tipo": "serie"
-  },
-  {
-    "Nombre": "Spenser Confidential",
-    "Lanzamiento": "2020",
-    "Duracion": "111 min",
-    "Director": "Peter Berg",
-    "Actores": "Mark Wahlberg, Winston Duke, Alan Arkin",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTdkOTEwYjMtNDA1YS00YzVlLTg0NWUtMmQzNDZhYWUxZmIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "In the Tall Grass",
-    "Lanzamiento": "2019",
-    "Duracion": "101 min",
-    "Director": "Vincenzo Natali",
-    "Actores": "Laysla De Oliveira, Avery Whitted, Patrick Wilson",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjA2ZWU3N2MtY2JkYy00YjFjLWEyZWQtMjQ0MTU0NDk1ZTZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
   },
   {
     "Nombre": "Beasts of No Nation",
@@ -3480,24 +3003,6 @@
     "Director": "Maya Forbes",
     "Actores": "Jack Black, Jenny Slate, Jason Schwartzman",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3MTQyNDEyN15BMl5BanBnXkFtZTgwMjE3NjgzNDM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Crazies",
-    "Lanzamiento": "2010",
-    "Duracion": "101 min",
-    "Director": "Breck Eisner",
-    "Actores": "Radha Mitchell, Timothy Olyphant, Danielle Panabaker",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzMDU5OTg0NV5BMl5BanBnXkFtZTcwNDQ4MjcwMw@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Adam Project",
-    "Lanzamiento": "2022",
-    "Duracion": "106 min",
-    "Director": "Shawn Levy",
-    "Actores": "Ryan Reynolds, Walker Scobell, Mark Ruffalo",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -3897,24 +3402,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Jaws 3-D",
-    "Lanzamiento": "1983",
-    "Duracion": "99 min",
-    "Director": "Joe Alves",
-    "Actores": "Dennis Quaid, Bess Armstrong, Simon MacCorkindale",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzdlOGU2ODUtODk1YS00M2ZmLWEwNjEtODJhOGE5N2Y4ZTQyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Jaws: The Revenge",
-    "Lanzamiento": "1987",
-    "Duracion": "89 min",
-    "Director": "Joseph Sargent",
-    "Actores": "Lorraine Gary, Lance Guest, Mario Van Peebles",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2UxMWVlNmMtYzM0Zi00YTQzLTk2N2ItM2Y1NmNmMDk4MDFjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "I Am a Hero",
     "Lanzamiento": "2015",
     "Duracion": "126 min",
@@ -4029,24 +3516,6 @@
     "Director": "Stephen Cognetti",
     "Actores": "Gore Abrams, Alice Bahlke, Danny Bellini",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNGZlMmE5MjctMjFhOC00Mjk4LTkwYTctODhiZjcyYmU3OTU3XkEyXkFqcGdeQXVyNTcwMzkyNDE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hell House LLC II: The Abaddon Hotel",
-    "Lanzamiento": "2018",
-    "Duracion": "89 min",
-    "Director": "Stephen Cognetti",
-    "Actores": "Vas Eli, Jillian Geurts, Joy Shatz",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTA2YmExODUtYzRlYi00ZDE4LThlZWYtNjY5YmYyMWFmZmRiXkEyXkFqcGdeQXVyMTE4NTYyNjM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hell House LLC III: Lake of Fire",
-    "Lanzamiento": "2019",
-    "Duracion": "85 min",
-    "Director": "Stephen Cognetti",
-    "Actores": "Gabriel Chytry, Elizabeth Vermilyea, Sam Kazzi",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTIzNTBiOGQtNDI1OC00YTcyLThhOTQtNTk4OTQwZWUxMGUyXkEyXkFqcGdeQXVyMTE4NTYyNjM@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -4608,15 +4077,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "The Neon Demon",
-    "Lanzamiento": "2016",
-    "Duracion": "117 min",
-    "Director": "Nicolas Winding Refn",
-    "Actores": "Elle Fanning, Christina Hendricks, Keanu Reeves",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTAyOTkxNTQ3NV5BMl5BanBnXkFtZTgwMjQ1NzQxOTE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "The Magdalene Sisters",
     "Lanzamiento": "2002",
     "Duracion": "114 min",
@@ -4848,15 +4308,6 @@
     "Director": "James Cameron",
     "Actores": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "2001: A Space Odyssey",
-    "Lanzamiento": "1968",
-    "Duracion": "149 min",
-    "Director": "Stanley Kubrick",
-    "Actores": "Keir Dullea, Gary Lockwood, William Sylvester",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -5472,204 +4923,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Dr. No",
-    "Lanzamiento": "1962",
-    "Duracion": "110 min",
-    "Director": "Terence Young",
-    "Actores": "Sean Connery, Ursula Andress, Bernard Lee",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNWNjNGU5ZjUtMzc0MC00MWY5LTkxMGUtMjcxZmM2MDYzYzQ4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "From Russia with Love",
-    "Lanzamiento": "1963",
-    "Duracion": "115 min",
-    "Director": "Terence Young",
-    "Actores": "Sean Connery, Robert Shaw, Lotte Lenya",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDU5ZWMxZjctZWNjNi00OGYxLWI0MDEtZmJhYTJkMmEyMTIyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Goldfinger",
-    "Lanzamiento": "1964",
-    "Duracion": "110 min",
-    "Director": "Guy Hamilton",
-    "Actores": "Sean Connery, Gert Fröbe, Honor Blackman",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE0OTU3NV5BMl5BanBnXkFtZTcwNjQxNTgzNA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Thunderball",
-    "Lanzamiento": "1965",
-    "Duracion": "130 min",
-    "Director": "Terence Young",
-    "Actores": "Sean Connery, Claudine Auger, Adolfo Celi",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGNhYjM3ZmQtMTRlZS00YmZiLWFhYjktYWE3ZTk0MGY0MTIwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "You Only Live Twice",
-    "Lanzamiento": "1967",
-    "Duracion": "117 min",
-    "Director": "Lewis Gilbert",
-    "Actores": "Sean Connery, Akiko Wakabayashi, Mie Hama",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDMzZmIyZWEtYWZlNi00NjNiLWFhMGEtNGNmMjgwYWFiMjUwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Casino Royale ",
-    "Lanzamiento": "1967",
-    "Duracion": "131 min",
-    "Director": "Val Guest, Ken Hughes, John Huston",
-    "Actores": "David Niven, Peter Sellers, Ursula Andress",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZmY3MDQ5NDktYzViZC00NTgwLTg1MDktMDlkNmYzYjk4NDJhXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "On Her Majesty\u0027s Secret Service",
-    "Lanzamiento": "1969",
-    "Duracion": "142 min",
-    "Director": "Peter R. Hunt",
-    "Actores": "George Lazenby, Diana Rigg, Telly Savalas",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGFlNGNiMmQtMThhZS00MWMxLWFiNGItZTM4ZmJlODM3ZmU2XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Diamonds Are Forever",
-    "Lanzamiento": "1971",
-    "Duracion": "120 min",
-    "Director": "Guy Hamilton",
-    "Actores": "Sean Connery, Jill St. John, Charles Gray",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjE1NTc2MzAtZTgzNi00ZmY0LWIxNjUtZTQwMjdlNTY0ZTM2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Live and Let Die",
-    "Lanzamiento": "1973",
-    "Duracion": "121 min",
-    "Director": "Guy Hamilton",
-    "Actores": "Roger Moore, Yaphet Kotto, Jane Seymour",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzY0M2MzODYtZDU5Yy00YTg2LWJmMGQtNmY1OWZiYjlmNzY0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Man with the Golden Gun",
-    "Lanzamiento": "1974",
-    "Duracion": "125 min",
-    "Director": "Guy Hamilton",
-    "Actores": "Roger Moore, Christopher Lee, Britt Ekland",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjY3YmM1MTItMWE0NC00NjFmLWFkMDgtMWFiZjY5NzQyZGVjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Spy Who Loved Me",
-    "Lanzamiento": "1977",
-    "Duracion": "125 min",
-    "Director": "Lewis Gilbert",
-    "Actores": "Roger Moore, Barbara Bach, Curd Jürgens",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDJhOTgyMTUtMDVhOS00MzRlLTk0MjYtYjI5NzhhMTExMTc1XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Moonraker",
-    "Lanzamiento": "1979",
-    "Duracion": "126 min",
-    "Director": "Lewis Gilbert",
-    "Actores": "Roger Moore, Lois Chiles, Michael Lonsdale",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYWE1ZDE1ZjMtNTVlZS00NGZjLTg2MWItYjQzMTJlMzAzZGNkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "For Your Eyes Only",
-    "Lanzamiento": "1981",
-    "Duracion": "127 min",
-    "Director": "John Glen",
-    "Actores": "Roger Moore, Carole Bouquet, Topol",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BN2RhOWEyM2UtNTYwMC00ZGUxLWFiMzktNTAzYjFjNmZlYzMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Octopussy",
-    "Lanzamiento": "1983",
-    "Duracion": "131 min",
-    "Director": "John Glen",
-    "Actores": "Roger Moore, Maud Adams, Louis Jourdan",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMGRiMDAwNWYtYmQzNS00NjEyLWE1NjQtNDg5ZTJlMmRmMjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Never Say Never Again",
-    "Lanzamiento": "1983",
-    "Duracion": "134 min",
-    "Director": "Irvin Kershner",
-    "Actores": "Sean Connery, Kim Basinger, Klaus Maria Brandauer",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1NjgzMDkwOF5BMl5BanBnXkFtZTcwMzM4NzI0NA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "A View to a Kill",
-    "Lanzamiento": "1985",
-    "Duracion": "131 min",
-    "Director": "John Glen",
-    "Actores": "Roger Moore, Christopher Walken, Tanya Roberts",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFlNmNjMzYtNWUwNS00MzRmLWJhZDktNWE3MGY3ZjdkOTI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Living Daylights",
-    "Lanzamiento": "1987",
-    "Duracion": "130 min",
-    "Director": "John Glen",
-    "Actores": "Timothy Dalton, Maryam d\u0027Abo, Jeroen Krabbé",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjI4MjBmYzItYTY5OC00OWYzLWE0NWYtZDQxNDQxM2QzYjA4XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Licence to Kill",
-    "Lanzamiento": "1989",
-    "Duracion": "133 min",
-    "Director": "John Glen",
-    "Actores": "Timothy Dalton, Robert Davi, Carey Lowell",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2ODZjOWEtMWJjNy00MWYzLTk0MGItMmE5ODBlYjI4MDY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "GoldenEye",
-    "Lanzamiento": "1995",
-    "Duracion": "130 min",
-    "Director": "Martin Campbell",
-    "Actores": "Pierce Brosnan, Sean Bean, Izabella Scorupco",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWI0MTJlMjEtYTI0ZS00NWZiLWE1ZmItYzBlZTE5YTk3NTJiXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Tomorrow Never Dies",
-    "Lanzamiento": "1997",
-    "Duracion": "119 min",
-    "Director": "Roger Spottiswoode",
-    "Actores": "Pierce Brosnan, Jonathan Pryce, Michelle Yeoh",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTk2ODQxNV5BMl5BanBnXkFtZTcwOTY5MDg0NA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The World Is Not Enough",
-    "Lanzamiento": "1999",
-    "Duracion": "128 min",
-    "Director": "Michael Apted",
-    "Actores": "Pierce Brosnan, Sophie Marceau, Robert Carlyle",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTZiZGY5MjEtNjU3Yi00OGJmLTlkMDAtOGQ5MTY4NDAxMDE0XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Die Another Day",
-    "Lanzamiento": "2002",
-    "Duracion": "133 min",
-    "Director": "Lee Tamahori",
-    "Actores": "Pierce Brosnan, Halle Berry, Rosamund Pike",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDlmY2Y2ZWQtNTZjMy00NGRkLTlkMjctMjA1MzdjMmI1NTQ1XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "Casino Royale",
     "Lanzamiento": "2006",
     "Duracion": "144 min",
@@ -5712,105 +4965,6 @@
     "Director": "Cary Joji Fukunaga",
     "Actores": "Daniel Craig, Ana de Armas, Rami Malek",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellraiser ",
-    "Lanzamiento": "1987",
-    "Duracion": "94 min",
-    "Director": "Clive Barker",
-    "Actores": "Andrew Robinson, Clare Higgins, Ashley Laurence",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGRlZTdhOGYtODc5NS00YmJkLTkzN2UtZDMyYmRhZWM1NTQwXkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellbound: Hellraiser II",
-    "Lanzamiento": "1988",
-    "Duracion": "97 min",
-    "Director": "Tony Randel",
-    "Actores": "Doug Bradley, Ashley Laurence, Clare Higgins",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzc5MTBmMTYtYmUwMi00YTNjLThjNTAtOGI4ZjZmNTVkZjRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellraiser III: Hell on Earth",
-    "Lanzamiento": "1992",
-    "Duracion": "97 min",
-    "Director": "Anthony Hickox",
-    "Actores": "Terry Farrell, Doug Bradley, Kevin Bernhardt",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTRiMGFjMmMtYTUzOS00N2U4LWJjZDQtNjFjNjg4MTg4YTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellraiser: Bloodline",
-    "Lanzamiento": "1996",
-    "Duracion": "85 min",
-    "Director": "Kevin Yagher",
-    "Actores": "Bruce Ramsay, Valentina Vargas, Doug Bradley",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzM1NjVhNGUtY2FhNy00MTQ4LTkyNDAtZWE2YWZhYWQ2YzdmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellraiser: Inferno",
-    "Lanzamiento": "2000",
-    "Duracion": "99 min",
-    "Director": "Scott Derrickson",
-    "Actores": "Craig Sheffer, Nicholas Turturro, James Remar, Doug Bradley",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTJkYzI4ZGQtYTU3Yy00MWU1LWE3NjUtZjI5Zjc2ZGI0Mjc5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellraiser: Hellseeker",
-    "Lanzamiento": "2002",
-    "Duracion": "89 min",
-    "Director": "Rick Bota",
-    "Actores": "Dean Winters, Ashley Laurence, Doug Bradley, Rachel Hayward",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlNGVkZDctNGIzYi00OGZjLTg3ZDktZTM4NmNkZDEzMjZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellraiser: Deader",
-    "Lanzamiento": "2005",
-    "Duracion": "88 min",
-    "Director": "Rick Bota",
-    "Actores": "Kari Wuhrer, Ionut Chermenski, Hugh Jorgin, Linda Marlowe",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIyYTAzZjEtOTEzYS00NTliLWE0MjYtM2FiZGYzYTQxMWM5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellraiser: Hellworld",
-    "Lanzamiento": "2005",
-    "Duracion": "91 min",
-    "Director": "Rick Bota",
-    "Actores": "Stelian Urian, Katheryn Winnick, Anna Tolputt, Khary Payton",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDM2OGViNjAtMmM5OS00YzJiLTgzODItNTZlYzcxNjAyZDUyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellraiser: Revelations",
-    "Lanzamiento": "2011",
-    "Duracion": "75 min",
-    "Director": "Víctor Garcia",
-    "Actores": "Jolene Andersen, Steven Brand, Dan Buran",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ2ZTY0MmYtNjM2Ny00MTIxLWIxNGUtMTlhYWQyYjBhY2IxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellraiser: Judgment",
-    "Lanzamiento": "2018",
-    "Duracion": "81 min",
-    "Director": "Gary J. Tunnicliffe",
-    "Actores": "Damon Carney, Randy Wayne, Alexandra Harris, Heather Langenkamp",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzZmOTE0NTktZWQ2Zi00NDhhLTkwYmQtNWRmZGZhNjMxNDdmXkEyXkFqcGdeQXVyOTE2MTYxOQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Hellraiser",
-    "Lanzamiento": "2022",
-    "Duracion": "121 min",
-    "Director": "David Bruckner",
-    "Actores": "Odessa A\u0027zion, Jamie Clayton, Adam Faison",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYWM1YTgxNjMtNzY2NC00YjVmLWE1ODUtNTdiYTI4YjZhODMwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -5865,15 +5019,6 @@
     "Director": "Peter Jackson",
     "Actores": "Ian McKellen, Martin Freeman, Richard Armitage",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDE3OTQ3MF5BMl5BanBnXkFtZTgwODczMTg4MjE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Katasumi",
-    "Lanzamiento": "1998",
-    "Duracion": "4 min",
-    "Director": "Takashi Shimizu",
-    "Actores": "Takako Fuji, Kanna Kashima, Ayako Omura",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWRhMmMyYWYtZGFhNy00ZjQ2LWI2OGItZjBkM2IzNjRmYmE2XkEyXkFqcGdeQXVyNTQwODUwMQ@@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -5937,60 +5082,6 @@
     "Director": "Toby Wilkins",
     "Actores": "Matthew Knight, Shawnee Smith, Mike Straub",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNGU4MThiYjItMDliMC00YWM4LTljZTEtNTg0YzdiMmE2MjM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Ju-on: White Ghost",
-    "Lanzamiento": "2009",
-    "Duracion": "61 min",
-    "Director": "Ryûta Miyake",
-    "Actores": "Hiroki Suzuki, Ichirôta Miyakawa, Natsuki Kasa",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTc1NzU2N15BMl5BanBnXkFtZTgwNjM3NjI2MDE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Ju-on: Black Ghost",
-    "Lanzamiento": "2009",
-    "Duracion": "60 min",
-    "Director": "Mari Asato",
-    "Actores": "Kôji Seto, Kuniteru Shigeyama, Kana Tsugihara",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyMTYzOTU1OV5BMl5BanBnXkFtZTgwODc4NjI2MDE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Ju-on: The Beginning of the End",
-    "Lanzamiento": "2014",
-    "Duracion": "91 min",
-    "Director": "Masayuki Ochiai",
-    "Actores": "Shô Aoyagi, Yoshihiko Hakamada, Yasuhito Hida",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjFjNDY0MTctYWM5OC00ZmFkLThiODctNDM0Y2QwOGQ0OTVjXkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Ju-on: The Final Curse",
-    "Lanzamiento": "2015",
-    "Duracion": "90 min",
-    "Director": "Masayuki Ochiai",
-    "Actores": "Airi Taira, Ren Kiriyama, Nonoka Ono",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGU3ZDAxMmItOWNhNC00YTkzLWFlZDktYTQ3NmJiYzllNmMzXkEyXkFqcGdeQXVyNjQ4ODE3Mjk@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Sadako vs. Kayako",
-    "Lanzamiento": "2016",
-    "Duracion": "98 min",
-    "Director": "Kôji Shiraishi",
-    "Actores": "Mizuki Yamamoto, Tina Tamashiro, Aimi Satsukawa",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzEwNjctOTE3OC00YjM2LTk5ZTUtZWQxZTg0MmM1ZjdjXkEyXkFqcGdeQXVyNzU2NjU4Ng@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Grudge",
-    "Lanzamiento": "2019",
-    "Duracion": "94 min",
-    "Director": "Nicolas Pesce",
-    "Actores": "Tara Westwood, Junko Bailey, David Lawrence Brown",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjY3NWZmOTktMmVhZi00M2Q1LTg2MmQtOGE2NmE3MWNlZjY3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -7920,87 +7011,6 @@
     "Tipo": "serie"
   },
   {
-    "Nombre": "The Texas Chain Saw Massacre ",
-    "Lanzamiento": "1974",
-    "Duracion": "83 min",
-    "Director": "Tobe Hooper",
-    "Actores": "Marilyn Burns, Edwin Neal, Allen Danziger",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDI3OWE0ZWMtNGJjOS00N2E4LWFiOTAtZjQ4OTNiNzIwN2NkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Texas Chainsaw Massacre 2",
-    "Lanzamiento": "1986",
-    "Duracion": "101 min",
-    "Director": "Tobe Hooper",
-    "Actores": "Dennis Hopper, Caroline Williams, Jim Siedow",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTBhNWIyYTAtNTA2Yi00OWVkLWE5OWUtNWY2ZjI5MTUwMmVjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Leatherface: Texas Chainsaw Massacre III",
-    "Lanzamiento": "1990",
-    "Duracion": "85 min",
-    "Director": "Jeff Burr",
-    "Actores": "Kate Hodge, Ken Foree, R.A. Mihailoff",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYmFhMjlkOTctNWU2MC00YmQzLWJmYWMtZTUyNzM4YTU4ODRhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Texas Chainsaw Massacre: The Next Generation",
-    "Lanzamiento": "1994",
-    "Duracion": "93 min",
-    "Director": "Kim Henkel",
-    "Actores": "Renée Zellweger, Matthew McConaughey, Robert Jacks",
-    "Poster": "https://www.movieposters.com/cdn/shop/products/texas_chainsaw_massacre_the_next_generation_480x.progressive.jpg?v\u003d1579110192",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Texas Chainsaw Massacre",
-    "Lanzamiento": "2003",
-    "Duracion": "98 min",
-    "Director": "Marcus Nispel",
-    "Actores": "Jessica Biel, Jonathan Tucker, Andrew Bryniarski",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDg2NDJkOGYtMjM3My00Mzc2LWJiYjktODFlMzBjNmQwMTEyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Texas Chainsaw Massacre: The Beginning",
-    "Lanzamiento": "2006",
-    "Duracion": "91 min",
-    "Director": "Jonathan Liebesman",
-    "Actores": "Jordana Brewster, Matt Bomer, Diora Baird",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwMzAxNDcyMl5BMl5BanBnXkFtZTYwMjMwMDc2._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Texas Chainsaw 3D",
-    "Lanzamiento": "2013",
-    "Duracion": "91 min",
-    "Director": "John Luessenhop",
-    "Actores": "Alexandra Daddario, Tania Raymonde, Trey Songz",
-    "Poster": "https://m.media-amazon.com/images/I/51zD9jaOg1L._AC_.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Leatherface",
-    "Lanzamiento": "2017",
-    "Duracion": "90 min",
-    "Director": "Alexandre Bustillo, Julien Maury",
-    "Actores": "Stephen Dorff, Lili Taylor, Sam Strike",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEyMDE1MzE1NF5BMl5BanBnXkFtZTgwMzcwNTU1MzI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Texas Chainsaw Massacre",
-    "Lanzamiento": "2022",
-    "Duracion": "81 min",
-    "Director": "David Blue Garcia",
-    "Actores": "Sarah Yarkin, Elsie Fisher, Mark Burnham",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDU4Yzk1NmUtNDU4OC00YzVmLTgwOTUtYTY2NjNmMjY5YjVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "love \u0026 Death",
     "Lanzamiento": "2023",
     "Duracion": "1 temporada",
@@ -8025,123 +7035,6 @@
     "Director": "David Pastor, Àlex Pastor",
     "Actores": "Quim Gutiérrez, Jose Coronado, Marta Etura",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMzY4MTM4MjU4Ml5BMl5BanBnXkFtZTcwNTE4MjgyOQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween  ",
-    "Lanzamiento": "1978",
-    "Duracion": "91 min",
-    "Director": "John Carpenter",
-    "Actores": "Donald Pleasence, Jamie Lee Curtis, Tony Moran",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween II ",
-    "Lanzamiento": "1981",
-    "Duracion": "92 min",
-    "Director": "Rick Rosenthal",
-    "Actores": "Jamie Lee Curtis, Donald Pleasence, Charles Cyphers",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjZmYjg0ODctOTIyYy00YzhkLTgyMzEtNjUyY2JiZjVmYzI2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween III: Season of the Witch",
-    "Lanzamiento": "1982",
-    "Duracion": "98 min",
-    "Director": "Tommy Lee Wallace",
-    "Actores": "Tom Atkins, Stacey Nelkin, Dan O\u0027Herlihy",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BN2YzYjI0MWYtYWUyZS00ZDQ4LWEzN2EtMDU4NDJmNjA2ZWFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween 4: The Return of Michael Myers",
-    "Lanzamiento": "1988",
-    "Duracion": "88 min",
-    "Director": "Dwight H. Little",
-    "Actores": "Donald Pleasence, Ellie Cornell, Danielle Harris",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYWNiNjBhZjAtMzVkNi00MTJiLWI0NGQtODE2NmIyNmU2OTQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween 5: The Revenge of Michael Myers",
-    "Lanzamiento": "1989",
-    "Duracion": "96 min",
-    "Director": "Dominique Othenin-Girard",
-    "Actores": "Donald Pleasence, Danielle Harris, Ellie Cornell",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZWE2YTU2ZjMtZjRjOS00NjQ3LWIyYzItMTk2N2YxMjY1ZGRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween: The Curse of Michael Myers",
-    "Lanzamiento": "1995",
-    "Duracion": "87 min",
-    "Director": "Joe Chappelle",
-    "Actores": "Donald Pleasence, Paul Rudd, Marianne Hagan",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ3MjgzMWMtMjJhMy00MmVjLTllMzMtMWVjMmMxNTIzNWQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween H20: Twenty Years Later",
-    "Lanzamiento": "1998",
-    "Duracion": "86 min",
-    "Director": "Steve Miner",
-    "Actores": "Jamie Lee Curtis, Adam Arkin, Michelle Williams",
-    "Poster": "https://image.tmdb.org/t/p/original/r0ISEyXLOLPJ1PKLYRDTyzI63VO.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween: Resurrection",
-    "Lanzamiento": "2002",
-    "Duracion": "90 min",
-    "Director": "Rick Rosenthal",
-    "Actores": "Jamie Lee Curtis, Busta Rhymes, Brad Loree",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODczZDMxNTMtZDIxOC00YWEzLWJkMmEtZjczNGUwZDA2NTNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween ",
-    "Lanzamiento": "2007",
-    "Duracion": "109 min",
-    "Director": "Rob Zombie",
-    "Actores": "Scout Taylor-Compton, Malcolm McDowell, Tyler Mane",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzOTg4MzcxNF5BMl5BanBnXkFtZTcwMzY5MDE1MQ@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween II",
-    "Lanzamiento": "2009",
-    "Duracion": "105 min",
-    "Director": "Rob Zombie",
-    "Actores": "Scout Taylor-Compton, Tyler Mane, Malcolm McDowell",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTEzODI0NF5BMl5BanBnXkFtZTcwMTE4MTY2Mg@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween",
-    "Lanzamiento": "2018",
-    "Duracion": "106 min",
-    "Director": "David Gordon Green",
-    "Actores": "Jamie Lee Curtis, Judy Greer, Andi Matichak",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMmMzNjJhYjUtNzFkZi00MWQ4LWJiMDEtYWM0NTAzNGZjMTI3XkEyXkFqcGdeQXVyOTE2OTMwNDk@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween Kills",
-    "Lanzamiento": "2021",
-    "Duracion": "105 min",
-    "Director": "David Gordon Green",
-    "Actores": "Jamie Lee Curtis, Judy Greer, Andi Matichak",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BM2RmMGY2Y2UtNjA1NS00NGE4LThiNzItMmE1NTk5NzI5NmE0XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Halloween Ends",
-    "Lanzamiento": "2022",
-    "Duracion": "111 min",
-    "Director": "David Gordon Green",
-    "Actores": "Jamie Lee Curtis, Andi Matichak, James Jude Courtney",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTg1Y2Q3MzctMDlkOS00OGE1LWE4MjUtNmJjNDNkZmM2YmVkXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -8214,51 +7107,6 @@
     "Director": "Eli Roth",
     "Actores": "Bruce Willis, Vincent D\u0027Onofrio, Elisabeth Shue",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNjU3MjE0MF5BMl5BanBnXkFtZTgwNTIyNDk0NDM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "First Blood",
-    "Lanzamiento": "1982",
-    "Duracion": "93 min",
-    "Director": "Ted Kotcheff",
-    "Actores": "Sylvester Stallone, Brian Dennehy, Richard Crenna",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODBmOWU2YWMtZGUzZi00YzRhLWJjNDAtYTUwNWVkNDcyZmU5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Rambo: First Blood Part II",
-    "Lanzamiento": "1985",
-    "Duracion": "96 min",
-    "Director": "George P. Cosmatos",
-    "Actores": "Sylvester Stallone, Richard Crenna, Charles Napier",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZWFkY2I1ZDAtNmZhNS00NjVlLWJiMGQtMGQ1ZmM0ZDA5ODg5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Rambo III",
-    "Lanzamiento": "1988",
-    "Duracion": "102 min",
-    "Director": "Peter MacDonald",
-    "Actores": "Sylvester Stallone, Richard Crenna, Marc de Jonge",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGY0NmQ1YjQtODIwZC00MWM5LThkM2ItZjljM2NhNjIzNjgyXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Rambo",
-    "Lanzamiento": "2008",
-    "Duracion": "92 min",
-    "Director": "Sylvester Stallone",
-    "Actores": "Sylvester Stallone, Julie Benz, Matthew Marsden",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5Mjg1MzM4NF5BMl5BanBnXkFtZTcwNTAyNzUzMw@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Rambo: Last Blood",
-    "Lanzamiento": "2019",
-    "Duracion": "89 min",
-    "Director": "Adrian Grunberg",
-    "Actores": "Sylvester Stallone, Paz Vega, Sergio Peris-Mencheta",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTAxZWM2OTgtOTQzOC00ZTI5LTgyYjktZTRhYWM4YWQxNWI0XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -8433,111 +7281,12 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "The Amityville Horror",
-    "Lanzamiento": "1979",
-    "Duracion": "117 min",
-    "Director": "Stuart Rosenberg",
-    "Actores": "James Brolin, Margot Kidder, Rod Steiger",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0NDMyNTU3M15BMl5BanBnXkFtZTcwMjM0MTgwNA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Amityville II: The Possession",
-    "Lanzamiento": "1982",
-    "Duracion": "104 min",
-    "Director": "Damiano Damiani",
-    "Actores": "James Olson, Burt Young, Rutanya Alda",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwMTAyOTY4OF5BMl5BanBnXkFtZTcwNjMwODQ2NA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Amityville 3-D",
-    "Lanzamiento": "1983",
-    "Duracion": "105 min",
-    "Director": "Richard Fleischer",
-    "Actores": "Tony Roberts, Tess Harper, Robert Joy",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDg2M2Q3OWEtNDVlNS00MjJmLTkxZGQtOTY0ZDE4MzJhZTk1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Amityville 4: The Evil Escapes",
-    "Lanzamiento": "1989",
-    "Duracion": "95 min",
-    "Director": "Sandor Stern",
-    "Actores": "Patty Duke, Jane Wyatt, Fredric Lehne",
-    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Amityville_IV.jpg/220px-Amityville_IV.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Amityville Curse",
-    "Lanzamiento": "1990",
-    "Duracion": "91 min",
-    "Director": "Tom Berry",
-    "Actores": "Kim Coates, Dawna Wightman, Helen Hughes, David Stein",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDFkNGVjMGEtMGVlOS00ZTdjLWJiNGYtOWZkNTllNDA5ZmExXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Amityville: It\u0027s About Time",
-    "Lanzamiento": "1992",
-    "Duracion": "95 min",
-    "Director": "Tony Randel",
-    "Actores": "Stephen Macht, Shawn Weatherly, Megan Ward",
-    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Amityville_Its_About_Time.jpg/220px-Amityville_Its_About_Time.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Amityville: A New Generation",
-    "Lanzamiento": "1993",
-    "Duracion": "91 min",
-    "Director": "John Murlowski",
-    "Actores": "Ross Partridge, Julia Nickson, Lala Sloatman, David Naughton",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDJkYTBlNDAtYjVmMy00YzhiLTljMjItZGI2ZDY3NjJlMzAyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Amityville Dollhouse",
-    "Lanzamiento": "1996",
-    "Duracion": "93 min",
-    "Director": "Steve White",
-    "Actores": "Robin Thomas, Starr Andreeff, Allen Cutler, Rachel Duncan",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzEzYjUzNGItOGU3Zi00ZDQ1LWI2NTktNzRmMzAxN2NhODBjXkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "The Amityville Horror",
-    "Lanzamiento": "2005",
-    "Duracion": "90 min",
-    "Director": "Andrew Douglas",
-    "Actores": "Ryan Reynolds, Melissa George, Jimmy Bennett",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzc1Njc2NDc3NV5BMl5BanBnXkFtZTYwODYyNzI3._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Amityville: The Awakening",
-    "Lanzamiento": "2017",
-    "Duracion": "87 min",
-    "Director": "Franck Khalfoun",
-    "Actores": "Jennifer Jason Leigh, Bella Thorne, Mckenna Grace",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQwOTI3Nzk5OV5BMl5BanBnXkFtZTgwMzY3NDMyODE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "The Boxer",
     "Lanzamiento": "1997",
     "Duracion": "113 min",
     "Director": "Jim Sheridan",
     "Actores": "Daniel Day-Lewis, Emily Watson, Daragh Donnelly",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZjgxZmFkMTktMWYzYi00ZjdhLWJiODEtNTcyODIwNjQxZGQzXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Overlord",
-    "Lanzamiento": "2018",
-    "Duracion": "110 min",
-    "Director": "Julius Avery",
-    "Actores": "Jovan Adepo, Wyatt Russell, Mathilde Ollivier",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTUzYmJlNDgtMzM2ZS00N2ZkLWJjY2ItNzM0ZmVjMWU5OTA3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
