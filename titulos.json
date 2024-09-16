@@ -3051,15 +3051,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Maestro",
-    "Lanzamiento": "2023",
-    "Duracion": "129 min",
-    "Director": "Bradley Cooper",
-    "Actores": "Carey Mulligan, Bradley Cooper, Matt Bomer",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGI2MzQ1NzQtMmVkOC00ZGI0LWI3YjQtN2FjMzQ1NmRhNzFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "The Pale Blue Eye",
     "Lanzamiento": "2022",
     "Duracion": "128 min",
@@ -9402,6 +9393,159 @@
     "Director": "Emile Ardolino",
     "Actores": "Patrick Swayze, Jennifer Grey, Jerry Orbach",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYzNhNTNjODYtYjg2Ny00MzE5LWJmNDctY2E3N2E5MzQ3MmNmXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Still Alice",
+    "Lanzamiento": "2014",
+    "Duracion": "101 min",
+    "Director": "Richard Glatzer, Wash Westmoreland",
+    "Actores": "Julianne Moore, Alec Baldwin, Kristen Stewart",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzNzAxNjY1Nl5BMl5BanBnXkFtZTgwMDg4ODQxMzE@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Bridge to Terabithia",
+    "Lanzamiento": "2007",
+    "Duracion": "96 min",
+    "Director": "Gabor Csupo",
+    "Actores": "Josh Hutcherson, AnnaSophia Robb, Zooey Deschanel",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzOTk1MzIyN15BMl5BanBnXkFtZTcwNTM3MjczMQ@@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "500 Days of Summer",
+    "Lanzamiento": "2009",
+    "Duracion": "95 min",
+    "Director": "Marc Webb",
+    "Actores": "Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MjM4OTU1OV5BMl5BanBnXkFtZTcwODkzNDIzMw@@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Still of the Night",
+    "Lanzamiento": "1982",
+    "Duracion": "93 min",
+    "Director": "Robert Benton",
+    "Actores": "Roy Scheider, Meryl Streep, Jessica Tandy",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzUxOTY2NjAtNTBlOC00ZDAzLWEzY2MtMTY0ZThhMjA4ZjZlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Death Becomes Her",
+    "Lanzamiento": "1992",
+    "Duracion": "104 min",
+    "Director": "Robert Zemeckis",
+    "Actores": "Meryl Streep, Bruce Willis, Goldie Hawn",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTczYmEyMmEtMmJlYi00YjI2LTg3MzUtMzEyODUwYWYzNjJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "The Devil Wears Prada",
+    "Lanzamiento": "2006",
+    "Duracion": "109 min",
+    "Director": "David Frankel",
+    "Actores": "Anne Hathaway, Meryl Streep, Adrian Grenier",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWM3NTI3YWEtYjJmMy00M2U5LWI1NzEtZWM3ZDY2ZWNjOGRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "A Cry in the Dark",
+    "Lanzamiento": "1988",
+    "Duracion": "120 min",
+    "Director": "Fred Schepisi",
+    "Actores": "Meryl Streep, Sam Neill, Dale Reeves",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWVhOTgxMGQtNzU2YS00Yzk5LTgxZDAtNGM2ZDJjNzhhMWZjXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Doubt",
+    "Lanzamiento": "2008",
+    "Duracion": "104 min",
+    "Director": "John Patrick Shanley",
+    "Actores": "Meryl Streep, Philip Seymour Hoffman, Amy Adams",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWFjZmE2NGYtNGIzYi00Nzc2LTlhZWMtMTNkOTBkOTQ0MTJmXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Mamma Mia!",
+    "Lanzamiento": "2008",
+    "Duracion": "108 min",
+    "Director": "Phyllida Lloyd",
+    "Actores": "Meryl Streep, Pierce Brosnan, Amanda Seyfried",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2MDU0MjM0MzReQTJeQWpwZ15BbWU3MDYwNzgwNzE@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "It\u0027s Complicated",
+    "Lanzamiento": "2009",
+    "Duracion": "120 min",
+    "Director": "Nancy Meyers",
+    "Actores": "Meryl Streep, Steve Martin, Alec Baldwin",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0NjM2NTI4N15BMl5BanBnXkFtZTcwNjQ2MDc5Mg@@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "August: Osage County",
+    "Lanzamiento": "2013",
+    "Duracion": "121 min",
+    "Director": "John Wells",
+    "Actores": "Meryl Streep, Dermot Mulroney, Julia Roberts",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ5ODE4NTcxNV5BMl5BanBnXkFtZTgwNjkyNDQ0MDE@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Seinfeld",
+    "Lanzamiento": "1989–1998",
+    "Duracion": "9 temporadas",
+    "Director": "Larry David, Jerry Seinfeld",
+    "Actores": "Jerry Seinfeld, Julia Louis-Dreyfus, Michael Richards",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "serie"
+  },
+  {
+    "Nombre": "P.S. I Love You",
+    "Lanzamiento": "2007",
+    "Duracion": "126 min",
+    "Director": "Richard LaGravenese",
+    "Actores": "Hilary Swank, Gerard Butler, Harry Connick Jr.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTg2MDg4MjI5NV5BMl5BanBnXkFtZTcwMzQ0MDczMw@@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Miracle in Cell No. 7",
+    "Lanzamiento": "2019",
+    "Duracion": "132 min",
+    "Director": "Mehmet Ada Öztekin",
+    "Actores": "Aras Bulut Iynemli, Nisa Sofiya Aksongur, Deniz Baysal",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGE3N2QxN2YtM2ZlNS00MWIyLWE1NDAtYWFlN2FiYjY1MjczXkEyXkFqcGdeQXVyOTUwNzc0ODc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "The Secret Life of Walter Mitty",
+    "Lanzamiento": "2013",
+    "Duracion": "114 min",
+    "Director": "Ben Stiller",
+    "Actores": "Ben Stiller, Kristen Wiig, Jon Daly",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "The Notebook",
+    "Lanzamiento": "2004",
+    "Duracion": "123 min",
+    "Director": "Nick Cassavetes",
+    "Actores": "Gena Rowlands, James Garner, Rachel McAdams",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzc3Mzg1OGYtZjc3My00Y2NhLTgyOWUtYjRhMmI4OTkwNDg4XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "The Vow",
+    "Lanzamiento": "2012",
+    "Duracion": "104 min",
+    "Director": "Michael Sucsy",
+    "Actores": "Rachel McAdams, Channing Tatum, Sam Neill",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1OTU5MjU0N15BMl5BanBnXkFtZTcwMzI3OTU5Ng@@._V1_SX300.jpg",
     "Tipo": "pelicula"
   }
 ]
