@@ -1683,42 +1683,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Ocean\u0027s Eleven",
-    "Lanzamiento": "2001",
-    "Duracion": "116 min",
-    "Director": "Steven Soderbergh",
-    "Actores": "George Clooney, Brad Pitt, Julia Roberts",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzVmYzVkMmUtOGRhMi00MTNmLThlMmUtZTljYjlkMjNkMjJkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Ocean\u0027s Twelve",
-    "Lanzamiento": "2004",
-    "Duracion": "125 min",
-    "Director": "Steven Soderbergh",
-    "Actores": "George Clooney, Brad Pitt, Julia Roberts",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMmJmYzBjNTktMTJjZS00ZGRhLWE1Y2QtOWQxZGU0Y2RmMjkyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Ocean\u0027s Thirteen",
-    "Lanzamiento": "2007",
-    "Duracion": "122 min",
-    "Director": "Steven Soderbergh",
-    "Actores": "George Clooney, Brad Pitt, Matt Damon",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyNTc1NzY5MV5BMl5BanBnXkFtZTcwNDM4NTQzMw@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Ocean\u0027s 8: Reimagining the Met Gala",
-    "Lanzamiento": "2018",
-    "Duracion": "13 min",
-    "Director": "Gary Leva",
-    "Actores": "Diana Alvarez, Awkwafina, Cate Blanchett, Helena Bonham Carter",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzY1YTlhMDktZmUzNi00ODhiLTg5M2ItMjI1Y2NlZmNiYWM0XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "The Intern",
     "Lanzamiento": "2015",
     "Duracion": "121 min",
@@ -1752,15 +1716,6 @@
     "Director": "Bobby Farrelly, Peter Farrelly",
     "Actores": "Owen Wilson, Jason Sudeikis, Christina Applegate",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4MzIxNTYwNl5BMl5BanBnXkFtZTcwNzE4MjE0NA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Easy A",
-    "Lanzamiento": "2010",
-    "Duracion": "92 min",
-    "Director": "Will Gluck",
-    "Actores": "Emma Stone, Amanda Bynes, Penn Badgley",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -4200,15 +4155,6 @@
     "Director": "Denis Villeneuve",
     "Actores": "Amy Adams, Jeremy Renner, Forest Whitaker",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "La La Land",
-    "Lanzamiento": "2016",
-    "Duracion": "128 min",
-    "Director": "Damien Chazelle",
-    "Actores": "Ryan Gosling, Emma Stone, Rosemarie DeWitt",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -8170,5 +8116,41 @@
     "Actores": "Colin Farrell, Cristin Milioti, Rhenzy Feliz",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYmU3MzYzOWEtOTdkZi00YzA1LTliMzQtNDdiZDBjY2FiNmFlXkEyXkFqcGc@._V1_SX300.jpg",
     "Tipo": "serie"
+  },
+  {
+    "Nombre": "The Substance",
+    "Lanzamiento": "2024",
+    "Duracion": "140 min",
+    "Director": "Coralie Fargeat",
+    "Actores": "Margaret Qualley, Dennis Quaid, Demi Moore",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Kinds of Kindness",
+    "Lanzamiento": "2024",
+    "Duracion": "164 min",
+    "Director": "Yorgos Lanthimos",
+    "Actores": "Emma Stone, Jesse Plemons, Willem Dafoe",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjZmZGY1MzMtNDVkNi00NjE2LTlkMzMtMmUzNWExY2ExZWI2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Blink Twice",
+    "Lanzamiento": "2024",
+    "Duracion": "102 min",
+    "Director": "Zoë Kravitz",
+    "Actores": "Naomi Ackie, Channing Tatum, Alia Shawkat",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzczYmQ0NTUtMTM5OS00Mzc4LWExZDYtOWE4YjRkOWJkYWRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Beautiful Boy",
+    "Lanzamiento": "2018",
+    "Duracion": "120 min",
+    "Director": "Felix van Groeningen",
+    "Actores": "Steve Carell, Maura Tierney, Jack Dylan Grazer",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTRhNjg3NGMtMDM3Mi00ZmRmLTg0ZDMtYTBhMThiN2YxMTdjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
   }
 ]
