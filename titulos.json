@@ -1116,15 +1116,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "American Gangster",
-    "Lanzamiento": "2007",
-    "Duracion": "157 min",
-    "Director": "Ridley Scott",
-    "Actores": "Denzel Washington, Russell Crowe, Chiwetel Ejiofor",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjFmZGI2YTEtYmJhMS00YTE5LWJjNjAtNDI5OGY5ZDhmNTRlXkEyXkFqcGdeQXVyODAwMTU1MTE@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "Dune: Part Two",
     "Lanzamiento": "2024",
     "Duracion": "166 min",
@@ -1734,15 +1725,6 @@
     "Director": "Judd Apatow",
     "Actores": "Adam Sandler, Seth Rogen, Leslie Mann",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNWU0ZDllZWEtNWI4ZC00YjIzLTk3YjMtZmE0MmFiNzg4MmRlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Zodiac",
-    "Lanzamiento": "2007",
-    "Duracion": "157 min",
-    "Director": "David Fincher",
-    "Actores": "Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BN2UwNDc5NmEtNjVjZS00OTI5LWE5YjctMWM3ZjBiZGYwMGI2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
