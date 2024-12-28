@@ -8143,5 +8143,50 @@
     "Actores": "Max Hubacher, Alexander Fehling, Sebastian Rudolph",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNzQyNGZlZTItYWIzNS00MDQ5LWJhNTktNmM0ZDQwNTM0Y2Y2XkEyXkFqcGc@._V1_SX300.jpg",
     "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Marrowbone",
+    "Lanzamiento": "2017",
+    "Duracion": "110 min",
+    "Director": "Sergio G. Sánchez",
+    "Actores": "George MacKay, Anya Taylor-Joy, Charlie Heaton",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzA5NDM1MjMzNl5BMl5BanBnXkFtZTgwNDUyMTA4NDM@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Conclave",
+    "Lanzamiento": "2024",
+    "Duracion": "120 min",
+    "Director": "Edward Berger",
+    "Actores": "Ralph Fiennes, Stanley Tucci, John Lithgow",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Nosferatu",
+    "Lanzamiento": "2024",
+    "Duracion": "133 min",
+    "Director": "Robert Eggers",
+    "Actores": "Lily-Rose Depp, Nicholas Hoult, Bill Skarsgård",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Dinner for Schmucks",
+    "Lanzamiento": "2010",
+    "Duracion": "114 min",
+    "Director": "Jay Roach",
+    "Actores": "Steve Carell, Paul Rudd, Stephanie Szostak",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTk5MTYzNTIyMl5BMl5BanBnXkFtZTcwOTM3MTQ2Mw@@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "A Different Man",
+    "Lanzamiento": "2024",
+    "Duracion": "112 min",
+    "Director": "Aaron Schimberg",
+    "Actores": "Sebastian Stan, Renate Reinsve, Adam Pearson",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
   }
 ]
