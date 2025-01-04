@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbd25c26-5b0b-4865-ac4e-9ff21283682c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SantyMejia20&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SantyMejia20/Proyectos-Oracle-ONE-Next-Education.git&quot;,
+    &quot;accountId&quot;: &quot;04f9f6a9-c5b7-46e2-9512-ea1fe4ce5169&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/out/production/screenmatch/com/alura/screenmatch/Request/Busqueda.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fmulZJoeayupYse6NWlmAvWGE0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.PrincipalConBusqueda.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Cursos de Programación/Oracle ONE Next Education/Proyectos Oracle ONE Next Education/BackEnd/Peliculas y Series para ver&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Cursos de Programación\Oracle ONE Next Education\Proyectos Oracle ONE Next Education\BackEnd\Peliculas y Series para ver\Qué ver\BackEnd" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alura.screenmatch.modelos" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbd25c26-5b0b-4865-ac4e-9ff21283682c" name="Changes" comment="" />
+      <created>1714418726141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714418726141</updated>
+      <workItem from="1714418727100" duration="403000" />
+      <workItem from="1714419352866" duration="74000" />
+      <workItem from="1714420741013" duration="16000" />
+      <workItem from="1714421157461" duration="37000" />
+      <workItem from="1715127860968" duration="944000" />
+      <workItem from="1716219709305" duration="21000" />
+      <workItem from="1718393717567" duration="8250000" />
+      <workItem from="1718728697628" duration="112000" />
+      <workItem from="1719128710521" duration="25000" />
+      <workItem from="1719128746823" duration="12894000" />
+      <workItem from="1719146719282" duration="8000" />
+      <workItem from="1719182082332" duration="97000" />
+      <workItem from="1719183514199" duration="69000" />
+      <workItem from="1719190087904" duration="4469000" />
+      <workItem from="1719248698805" duration="1661000" />
+      <workItem from="1719252805359" duration="2736000" />
+      <workItem from="1719255941024" duration="4284000" />
+      <workItem from="1719260533449" duration="15841000" />
+      <workItem from="1719302910160" duration="10302000" />
+      <workItem from="1719366788643" duration="2468000" />
+      <workItem from="1719457271110" duration="932000" />
+      <workItem from="1719510701689" duration="192000" />
+      <workItem from="1719614704684" duration="4152000" />
+      <workItem from="1719777616310" duration="9622000" />
+      <workItem from="1719790015341" duration="7000" />
+      <workItem from="1719948814266" duration="14977000" />
+      <workItem from="1720021638337" duration="1947000" />
+      <workItem from="1720122907606" duration="1054000" />
+      <workItem from="1720319920016" duration="956000" />
+      <workItem from="1720366280056" duration="40000" />
+      <workItem from="1720456710440" duration="1075000" />
+      <workItem from="1720461767829" duration="64000" />
+      <workItem from="1720463011096" duration="1060000" />
+      <workItem from="1720465244783" duration="129000" />
+      <workItem from="1720625709370" duration="51000" />
+      <workItem from="1720627314879" duration="1919000" />
+      <workItem from="1720630429916" duration="4203000" />
+      <workItem from="1720652845253" duration="58000" />
+      <workItem from="1720733646094" duration="149000" />
+      <workItem from="1720734951421" duration="2611000" />
+      <workItem from="1720883230251" duration="69000" />
+      <workItem from="1721252277127" duration="1349000" />
+      <workItem from="1721313509188" duration="104000" />
+      <workItem from="1721507214930" duration="767000" />
+      <workItem from="1721942190467" duration="326000" />
+      <workItem from="1722362945269" duration="1776000" />
+      <workItem from="1722818107060" duration="42000" />
+      <workItem from="1722947153419" duration="175000" />
+      <workItem from="1723429572479" duration="161000" />
+      <workItem from="1723929740867" duration="25000" />
+      <workItem from="1723929952951" duration="2000" />
+      <workItem from="1723931329461" duration="6000" />
+      <workItem from="1724088805264" duration="120000" />
+      <workItem from="1724089063671" duration="262000" />
+      <workItem from="1724096097971" duration="841000" />
+      <workItem from="1724704526686" duration="403000" />
+      <workItem from="1724705087448" duration="347000" />
+      <workItem from="1724898783388" duration="43000" />
+      <workItem from="1725225238253" duration="84000" />
+      <workItem from="1725225390557" duration="2092000" />
+      <workItem from="1725402687412" duration="66000" />
+      <workItem from="1725471110645" duration="1359000" />
+      <workItem from="1725559898961" duration="22000" />
+      <workItem from="1725918888423" duration="162000" />
+      <workItem from="1725919077836" duration="31000" />
+      <workItem from="1725919116440" duration="9000" />
+      <workItem from="1725919455692" duration="44000" />
+      <workItem from="1725919521655" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
