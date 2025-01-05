@@ -423,15 +423,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Milk",
-    "Lanzamiento": "2008",
-    "Duracion": "128 min",
-    "Director": "Gus Van Sant",
-    "Actores": "Sean Penn, Josh Brolin, Emile Hirsch",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ1MTk5YmYtZWUxNi00MDQxLTg0NzAtMmM4ZDkzY2E3YjQwXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "The Wrestler",
     "Lanzamiento": "2008",
     "Duracion": "109 min",
@@ -1140,15 +1131,6 @@
     "Director": "Alec Berg, Bill Hader",
     "Actores": "Bill Hader, Stephen Root, Sarah Goldberg",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNDY5NzNlMWItMmFiYy00NjU1LWFhYTAtOWNhYjI2NDViNTZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-    "Tipo": "serie"
-  },
-  {
-    "Nombre": "Winning Time: The Rise of the Lakers Dynasty",
-    "Lanzamiento": "2022–2023",
-    "Duracion": "2 temporadas",
-    "Director": "Max Borenstein, Jim Hecht",
-    "Actores": "John C. Reilly, Quincy Isaiah, Jason Clarke",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2JmMWVjZGQtMTNlZC00MjM5LTg0NGUtMTQ2NTEwMTdlNWQ1XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg",
     "Tipo": "serie"
   },
   {
@@ -2097,15 +2079,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "The 8 Show",
-    "Lanzamiento": "2024–",
-    "Duracion": "N/A temporadas",
-    "Director": "Bae Jin Soo",
-    "Actores": "Chun Woo-hee, Lee Joo-young, Ryu Jun-yeol",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGVmNWIwNjItOWUwMi00MjQwLWEzZjMtZWU2M2RiZmFjYWQxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg",
-    "Tipo": "serie"
-  },
-  {
     "Nombre": "Dexter",
     "Lanzamiento": "2006–2013",
     "Duracion": "8 temporadas",
@@ -2581,15 +2554,6 @@
     "Actores": "Tobin Bell, Tate Ellington, Joaquín Cosio",
     "Poster": "https://m.media-amazon.com/images/M/MV5BOWZlNTAyNGEtYjMxNS00NTdmLThkZTktYmQ4NzBhMDE5NWQ2XkEyXkFqcGdeQXVyMDc0MzU2OQ@@._V1_SX300.jpg",
     "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Maniac",
-    "Lanzamiento": "2018",
-    "Duracion": "1 temporada",
-    "Director": "Cary Joji Fukunaga, Patrick Somerville",
-    "Actores": "Emma Stone, Jonah Hill, Sonoya Mizuno",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDMwOTgyNzYtNWI2Zi00MDcwLWEyNmUtMGQ5YzA3ZTljMTA2XkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_SX300.jpg",
-    "Tipo": "serie"
   },
   {
     "Nombre": "Challenger: The Final Flight",
@@ -3204,15 +3168,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "One Cut of the Dead",
-    "Lanzamiento": "2017",
-    "Duracion": "96 min",
-    "Director": "Shin\u0027ichirô Ueda",
-    "Actores": "Takayuki Hamatsu, Yuzuki Akiyama, Harumi Shuhama",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2RhNTVhMTEtMzgyNi00NDg1LWIwYjktOTcxNDQyM2ZjNDE1XkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "Billions",
     "Lanzamiento": "2016–2023",
     "Duracion": "7 temporadas",
@@ -3510,15 +3465,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Gonjiam: Haunted Asylum",
-    "Lanzamiento": "2018",
-    "Duracion": "95 min",
-    "Director": "Jung Bum-shik",
-    "Actores": "Oh Ah-yeon, Wi Ha-joon, Yoo Je-Yoon",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDZiMjdkOTMtNDJiOS00YjdmLWFmMTUtMGNkNDk3ZWJkNzEwXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "Incantation",
     "Lanzamiento": "2022",
     "Duracion": "110 min",
@@ -3579,15 +3525,6 @@
     "Director": "Ali Abbasi",
     "Actores": "Eva Melander, Eero Milonoff, Jörgen Thorsson",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZjhkNzVkYjAtMGMzMi00Y2JjLWFkMzgtNjQ3Mzk2YThhZWExXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Triangle",
-    "Lanzamiento": "2009",
-    "Duracion": "99 min",
-    "Director": "Christopher Smith",
-    "Actores": "Melissa George, Joshua McIvor, Jack Taylor",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2VlODI5ZmMtZDExYS00OWI4LWJiMWItZWZkZWRkNzlmZWI2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -3786,15 +3723,6 @@
     "Director": "David Osit",
     "Actores": "Musa Hadid, Mahmoud Abbas, Mohammad Ibrahim Shtayyeh",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZDE2NTYyZTctZmRjOS00NmI3LWExYWYtMjRkZGMyOTg1MGU3XkEyXkFqcGdeQXVyMTMxODkxMTM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "We Need to Talk About Kevin",
-    "Lanzamiento": "2011",
-    "Duracion": "112 min",
-    "Director": "Lynne Ramsay",
-    "Actores": "Tilda Swinton, John C. Reilly, Ezra Miller",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0NDE0MjYxNF5BMl5BanBnXkFtZTcwNjM2NTY5Ng@@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -5697,15 +5625,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Happiness",
-    "Lanzamiento": "2021–",
-    "Duracion": "1 temporada",
-    "Director": "N/A",
-    "Actores": "Han Hyo-joo, Park Hyung-sik, Jo Woo-jin",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmE5ZGY0NjctYjc4MC00ODc5LThiYzMtOWQ2NzI0MjJkY2I5XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_SX300.jpg",
-    "Tipo": "serie"
-  },
-  {
     "Nombre": "S.W.A.T.",
     "Lanzamiento": "2003",
     "Duracion": "117 min",
@@ -5757,15 +5676,6 @@
     "Director": "Daniel Grou",
     "Actores": "Claude Legault, Rémy Girard, Martin Dubreuil",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYmNkMWFiZGMtYzU4Yi00ZjJiLWI1YmYtMWIwZjBjMWY0OTY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Syriana",
-    "Lanzamiento": "2005",
-    "Duracion": "128 min",
-    "Director": "Stephen Gaghan",
-    "Actores": "George Clooney, Matt Damon, Amanda Peet",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BN2FiZmQ4MDgtYzZlOC00ZmI0LThmZDMtMzBhNTVmZDE3ODc3XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -6831,15 +6741,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "Lost",
-    "Lanzamiento": "2004–2010",
-    "Duracion": "6 temporadas",
-    "Director": "J.J. Abrams, Jeffrey Lieber, Damon Lindelof",
-    "Actores": "Jorge Garcia, Josh Holloway, Yunjin Kim",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
-    "Tipo": "serie"
-  },
-  {
     "Nombre": "Death Proof",
     "Lanzamiento": "2007",
     "Duracion": "127 min",
@@ -7515,15 +7416,6 @@
     "Tipo": "pelicula"
   },
   {
-    "Nombre": "1900",
-    "Lanzamiento": "1976",
-    "Duracion": "317 min",
-    "Director": "Bernardo Bertolucci",
-    "Actores": "Robert De Niro, Gérard Depardieu, Dominique Sanda",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMmM3Njc4M2UtNzg4NS00ZGQyLWExYmMtMTFlMzA4NTdhNWQ4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
     "Nombre": "Wag the Dog",
     "Lanzamiento": "1997",
     "Duracion": "97 min",
@@ -7803,15 +7695,6 @@
     "Tipo": "serie"
   },
   {
-    "Nombre": "The Last Thing He Told Me",
-    "Lanzamiento": "2023–",
-    "Duracion": "1 temporada",
-    "Director": "Laura Dave, Josh Singer",
-    "Actores": "Jennifer Garner, Nikolaj Coster-Waldau, Angourie Rice",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTEzZjA2MGMtN2E3NC00NGFkLTlkMjItOTU2ZmRkM2FlNmYzXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_SX300.jpg",
-    "Tipo": "serie"
-  },
-  {
     "Nombre": "Longlegs",
     "Lanzamiento": "2024",
     "Duracion": "101 min",
@@ -7836,15 +7719,6 @@
     "Director": "Arthur Hiller",
     "Actores": "Richard Pryor, Gene Wilder, Joan Severance",
     "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1YWFmNDEtMDMyMi00OWU5LWIwMDktYjE1YjcwZjBlNDBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Working Girl",
-    "Lanzamiento": "1988",
-    "Duracion": "113 min",
-    "Director": "Mike Nichols",
-    "Actores": "Melanie Griffith, Harrison Ford, Sigourney Weaver",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTE5ZTA5OGUtNGVmOS00NWM3LWFhNDQtN2QzOGJmY2M2OGYwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -7926,15 +7800,6 @@
     "Director": "Marc Webb",
     "Actores": "Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MjM4OTU1OV5BMl5BanBnXkFtZTcwODkzNDIzMw@@._V1_SX300.jpg",
-    "Tipo": "pelicula"
-  },
-  {
-    "Nombre": "Still of the Night",
-    "Lanzamiento": "1982",
-    "Duracion": "93 min",
-    "Director": "Robert Benton",
-    "Actores": "Roy Scheider, Meryl Streep, Jessica Tandy",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzUxOTY2NjAtNTBlOC00ZDAzLWEzY2MtMTY0ZThhMjA4ZjZlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
     "Tipo": "pelicula"
   },
   {
@@ -8179,5 +8044,131 @@
     "Actores": "Sebastian Stan, Renate Reinsve, Adam Pearson",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_SX300.jpg",
     "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Milk",
+    "Lanzamiento": "2008",
+    "Duracion": "128 min",
+    "Director": "Gus Van Sant",
+    "Actores": "Sean Penn, Josh Brolin, Emile Hirsch",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWVmZWYzMDEtN2NkMi00NWM4LThjYzYtNzBjNzIzN2FmM2NlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "One Cut of the Dead",
+    "Lanzamiento": "2017",
+    "Duracion": "96 min",
+    "Director": "Shin\u0027ichirô Ueda",
+    "Actores": "Takayuki Hamatsu, Yuzuki Akiyama, Harumi Shuhama",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGJmOTkzNmQtMTVkYS00M2Y3LWE4OGUtMTFjZTJlZmQ5NGIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Gonjiam: Haunted Asylum",
+    "Lanzamiento": "2018",
+    "Duracion": "95 min",
+    "Director": "Jung Bum-shik",
+    "Actores": "Oh Ah-yeon, Wi Ha-joon, Yoo Je-Yoon",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWI1Yjk5ZWEtZjcyNS00NmZkLWFkNzUtMDA5YmNhODA1ZDVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Triangle",
+    "Lanzamiento": "2009",
+    "Duracion": "99 min",
+    "Director": "Christopher Smith",
+    "Actores": "Melissa George, Joshua McIvor, Jack Taylor",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzU3ZDA2MmUtYzFhMS00OGYyLWI3MDgtNDI4Zjg2YmRkNGYzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Syriana",
+    "Lanzamiento": "2005",
+    "Duracion": "128 min",
+    "Director": "Stephen Gaghan",
+    "Actores": "George Clooney, Matt Damon, Amanda Peet",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ0YmNiYjUtODg0NS00YjNkLWJhOTktOGMxNTdmYTM0ZmMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "1900",
+    "Lanzamiento": "1976",
+    "Duracion": "317 min",
+    "Director": "Bernardo Bertolucci",
+    "Actores": "Robert De Niro, Gérard Depardieu, Dominique Sanda",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ5MjE4OTUtMDViMC00MzlhLTlmNzktYWNmODBjMDk3M2Q4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Working Girl",
+    "Lanzamiento": "1988",
+    "Duracion": "113 min",
+    "Director": "Mike Nichols",
+    "Actores": "Melanie Griffith, Harrison Ford, Sigourney Weaver",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzZhNGFlNGYtMjgyMi00YmZiLWFjNjktZGIzYjkxM2YyZWJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Still of the Night",
+    "Lanzamiento": "1982",
+    "Duracion": "93 min",
+    "Director": "Robert Benton",
+    "Actores": "Roy Scheider, Meryl Streep, Jessica Tandy",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2FjYjc2N2MtOGQ5MC00Y2E2LTk4NTAtYjZlNGMwODVmMDc1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Winning Time: The Rise of the Lakers Dynasty",
+    "Lanzamiento": "2022–2023",
+    "Duracion": "2 temporadas",
+    "Director": "Max Borenstein, Jim Hecht",
+    "Actores": "John C. Reilly, Quincy Isaiah, Jason Clarke",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzlhZGZmMDUtMzZjMi00OGFmLThlOGYtMTAzMmIxNDE1NWU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "serie"
+  },
+  {
+    "Nombre": "The 8 Show",
+    "Lanzamiento": "2024–",
+    "Duracion": "1 temporada",
+    "Director": "Bae Jin Soo",
+    "Actores": "Chun Woo-hee, Ryu Jun-yeol, Park Jeong-min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjIxNmYxMmUtNGNiMC00ODIyLThhMWEtZWYwNTdiYzFiNDY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "serie"
+  },
+  {
+    "Nombre": "Maniac",
+    "Lanzamiento": "2018",
+    "Duracion": "1 temporada",
+    "Director": "Cary Joji Fukunaga, Patrick Somerville",
+    "Actores": "Emma Stone, Jonah Hill, Sonoya Mizuno",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDA0OWI5YzgtOGYzNy00ODdhLTk0ZGQtNDY4ODFiNTAyOGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "serie"
+  },
+  {
+    "Nombre": "Happiness",
+    "Lanzamiento": "2021–",
+    "Duracion": "1 temporada",
+    "Director": "N/A",
+    "Actores": "Han Hyo-joo, Park Hyung-sik, Jo Woo-jin",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzY4NDZmOGUtZTlmYy00N2I0LTg3YWYtNTk1M2ZkMDk1Mjg1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "serie"
+  },
+  {
+    "Nombre": "Lost",
+    "Lanzamiento": "2004–2010",
+    "Duracion": "6 temporadas",
+    "Director": "J.J. Abrams, Jeffrey Lieber, Damon Lindelof",
+    "Actores": "Jorge Garcia, Josh Holloway, Yunjin Kim",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "serie"
+  },
+  {
+    "Nombre": "The Last Thing He Told Me",
+    "Lanzamiento": "2023–",
+    "Duracion": "1 temporada",
+    "Director": "Laura Dave, Josh Singer",
+    "Actores": "Jennifer Garner, Nikolaj Coster-Waldau, Angourie Rice",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTIxNWVjZGYtZjIyZC00NjQ2LTlmMjYtMThiYjVkYTgwOTVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "serie"
   }
 ]
