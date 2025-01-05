@@ -8170,5 +8170,32 @@
     "Actores": "Jennifer Garner, Nikolaj Coster-Waldau, Angourie Rice",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZTIxNWVjZGYtZjIyZC00NjQ2LTlmMjYtMThiYjVkYTgwOTVkXkEyXkFqcGc@._V1_SX300.jpg",
     "Tipo": "serie"
+  },
+  {
+    "Nombre": "The First Omen",
+    "Lanzamiento": "2024",
+    "Duracion": "119 min",
+    "Director": "Arkasha Stevenson",
+    "Actores": "Nell Tiger Free, Ralph Ineson, Sonia Braga",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWU0ZjM1YjYtMGZkZi00NTBiLTgxMGItMzVhZDgyZTkyY2ZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "A House on Fire",
+    "Lanzamiento": "2024",
+    "Duracion": "105 min",
+    "Director": "Dani de la Orden",
+    "Actores": "Emma Vilarasau, Enric Auquer, Maria Rodríguez Soto",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTM5OTcwMzctYTgyZS00OGMyLWIyNzMtNmE0NzhhNWRiOTQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
+  },
+  {
+    "Nombre": "Babygirl",
+    "Lanzamiento": "2024",
+    "Duracion": "114 min",
+    "Director": "Halina Reijn",
+    "Actores": "Nicole Kidman, Harris Dickinson, Antonio Banderas",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmUwODYwODAtYWZkZS00YmUwLWFmMWEtOGNjMjE2NDk3OWIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Tipo": "pelicula"
   }
 ]
