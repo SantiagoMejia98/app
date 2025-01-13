@@ -80,8 +80,11 @@ let resultadosSeries = [];
 // Cargar datos desde el archivo JSON en la carpeta public
 function generaSeries() {
   console.log("Viewport Width:", window.innerWidth);
+  console.log('Ancho físico de la pantalla:', screen.width);
   console.log("Viewport Height:", window.innerHeight);
+  console.log('Ancho físico de la pantalla:', screen.height);
   console.log("Device Pixel Ratio:", window.devicePixelRatio);
+  
   const url = "/titulos.json"; // Ruta del JSON en la carpeta public
 
   fetch(url)
